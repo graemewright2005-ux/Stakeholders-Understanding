@@ -1,0 +1,16 @@
+URL: https://members.md.cmi.org.uk/Content/Display/73302
+
+CMI Single Sign On
+CMI Single Sign On
+{{model.currentUser}}
+Logout
+Login With Different Account
+Error:
+{{model.errorMessage}}
+Username (email)
+Password
+Remember My Login
+Login
+{{link.text}}
+External Login
+{{provider.text}}
