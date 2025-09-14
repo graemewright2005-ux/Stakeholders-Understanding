@@ -25,6 +25,8 @@ jobs:
           pip install -r scripts/requirements.txt
       - name: Extract text from documents
         run: python scripts/extract_text.py
+      - name: Fetch and extract from URLs
+        run: python scripts/fetch_from_urls.py
       - name: Commit and push extracted text
         run: |
           git config --global user.name "github-actions[bot]"
