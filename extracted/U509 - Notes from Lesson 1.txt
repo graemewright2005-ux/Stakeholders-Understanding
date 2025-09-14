@@ -1,0 +1,109 @@
+LESSON 1
+Organisations need to work with a range of stakeholders in order to meet their objectives. To build and maintain these relationships, they must know who their stakeholders are, and understand their needs and expectations.
+“Find the appropriate balance of competing claims by various groups of stakeholders. All claims deserve consideration but some claims are more important than others.”
+Warren Bennis
+
+There will be people who have an interest or ‘stake’ in how well an organisation functions. This is the reason we call them ‘stakeholders.’
+
+Strategic Management: A Stakeholder Approach, R. Edward Freeman defined a stakeholder as: ‘
+Any group or individual who can affect, or be affected by, the achievement of the organization’s objectives’
+
+Internal Stakeholders
+Employees of an organization
+Senior Leaders to entry level workers
+External Stakeholder
+Those who have an interest in the success of an organization who sit outside the organization
+Customers
+Investors
+Government agency
+Exam / Awarding Boards
+HM Revenue & Customs / Tax Payers
+Trading partners
+Supporting Groups like Jisc, FETech etc
+Regulatory bodies
+
+Stakeholder Interests - those whose interests align - EG Baker and Flour companies
+Reciprocal Relationships - Give and take
+From his research, Freeman concluded that stakeholder relationships are by their nature reciprocal. He further argued that these relationships are critical for the success of the organisation, and therefore need to be proactively ‘managed.’
+Stakeholder Management - Tasks include: identifying, analysing, monitoring and engaging stakeholders.
+Equal Relationship - This can change as businesses grow. Meaning an eye on the horizon and monitoring the relationship for signs of these shifts is important.
+Stakeholder Expertise - Management author Joseph Heagney identifies ‘expertise’ as an important form of NON-financial assistance.
+Stakeholder expertise can fill gaps in the organisation’s knowledge base. This can influence the research and development of its services or products, leading to their overall improvement. The assistance may come from both external stakeholders, like suppliers or consultants, and internal ones, like employees. 
+However, the impact of reciprocal relationships varies depending on how strongly stakeholders can affect, or be affected by the company.
+
+Primary and Secondary Stakeholders
+heavily affected by the organisation are known as ‘primary’ stakeholders.
+indirect impact, and are less affected are known as secondary stakeholders.
+Primary Stakeholders
+primary stakeholders are those who ‘define’ the organisation and ‘are vital to its continued existence.’ They have a strong impact.
+They may include: 
+Employees - Skills and time to deliver services / products
+Shareholders 
+Investors - funds & occasionally strategic direction
+Customers - Revenue & profit
+Suppliers - Essential for daily functioning
+Action is often visible and the effects immediate
+Secondary Stakeholders
+indirect impact and influence on an organisation. 
+Depending on the organisation’s sector, its secondary stakeholders may include: 
+Central and local government - legislation
+Legal and regulatory bodies - inspections
+The media - report on organisation
+Advocacy groups - pressure groups
+Secondary stakeholders may also influence the organisation through its primary stakeholders. For example, social groups may pressure investors or customers to stop supporting a company if they consider it to be acting unethically. 
+In order to manage stakeholders effectively, organisations must know how much power and interest different stakeholders have, and how these elements combine to affect the relationship. 
+
+Power vs Interest Grid
+Colin Eden and Fran Ackermann developed a model to map stakeholders based on these criteria in the 1990s. known as the ‘Power vs Interest’ grid.
+
+High Interest, High Power 
+strong interest in the organisation and a great deal of power to affect its activities. The people and groups in this quadrant are also sometimes known as key stakeholders. 
+According to author Graham Kenny, these are stakeholders with a disproportionate impact on the performance of an organisation - for example, its ability to meet production deadlines and make a profit. They often have the power to make or break a company’s plans.
+High Interest, Low Power 
+high interest in the organisation’s activities, but limited power to act on it. This group includes the majority of an organization's employees. They can gain power through external means, such as government and the courts. They can also increase it through collective action - for example, by joining a trade union. 
+This could also include external action groups who lobby for change, either directly or indirectly. 
+Low Interest, High Power 
+little interest in what the organisation is doing, but do have a lot of power. Government and professional bodies often fall into this category. They may not have a high stake in a particular company, but can exercise power over it - for example, by levying fines.
+Low Interest, Low Power 
+little interest in the organisation, and little power to influence it. This will include less important contractors, or potential employees who don’t yet know about the company.
+Shifting Positions 
+Stakeholder positions aren’t static. The position of these groups can move at any time.
+The Power vs Interest grid can help organisations determine which stakeholders will have the greatest impact on their objectives. Armed with this information they can form a strategy to advance their interests, and protect their position within the relationship.
+
+Negotiations 
+Both internal and external stakeholders will seek to increase their power in the relationship by ‘negotiating’ better terms with the organization. It’s a natural part of reciprocal relationships, where both stakeholder and organisation have their own interests.
+Contracts
+The outcome of a negotiation will often be finalised in a ‘contract’ - a legally enforceable agreement between two parties. By signing a contract, both sides hope to protect their interests in the relationship.
+Contracts are common in long term stakeholder relationships, especially those involving primary stakeholders. 
+Collective Bargaining 
+The process of ‘collective bargaining,’ in which unions negotiate terms on behalf of their members (usually low power stakeholders), can change the balance of power in the relationship.
+Contractors 
+These are external stakeholders, who bring needed expertise to the company for a limited period of time. Contractors sign what are known as ‘work for hire’ agreements. Cover similar terms to a contract.
+Service-level Agreements 
+Another common external stakeholder is the client - this is a person or company that uses the organisation’s professional services.
+A company’s client relationships are governed by the ‘servicelevel agreement’ or SLA. This is a kind of reverse ‘work for hire’ contract, because it’s the organisation who is acting to supply services to the stakeholder, rather than the other way around.
+
+Challenges of Stakeholder Management
+While seeking to derive the greatest benefits from these relationships, organisations are also likely to encounter many challenges.
+Some of these may be foreseen and avoided by the careful use of contracts.
+Conflict of Interest
+A common challenge relates to the differing ‘needs and expectations’ of stakeholders, and the organisation’s wish to satisfy all of them. This may result in a conflict of interest. 
+Managing Stakeholder Interests 
+Its investors are also becoming anxious, meeting often to discuss the future of the business. The store’s senior management know that employee morale is low and they’re eager to reward them for their hard work. They don’t want to lose talent in case sales turn around next year. But giving their workers more money now may trigger investors to sell their shares, which will hit the company’s finances and may eventually lead it to close. 
+Managing the interests of both these stakeholder groups presents a conflict of interest for the company: the retailer can keep shareholders happy, but only at the expense of their employees - or vice versa.
+Power Imbalances 
+Management theorist Richard Pettinger argues that the stakeholder with the highest level of financial investment in a company is likely to have their needs and interests prioritised. 
+He adds that this is the case ‘whether or not this is the correct course of action for the particular organisation.’ Maintaining a productive relationship when there is an imbalance of power between stakeholder and organisation is especially difficult.
+Values and Culture 
+‘Culture’ in this context could refer to the attitudes, customs and practices of a particular country. So, for example, when a multinational firm expands overseas they may encounter different employee habits than those expected in their own work culture. 
+Company Culture 
+Company expectations reflect the ‘values’ of its senior management, and are reinforced through recruitment of people with similar values. 
+
+REFERENCES
+Bennis, W. Warren Bennis Quotes [online] https://www.brainyquote.com/authors/warren-bennis-quotes [Access date 27 November 2020]
+CMI (2018) Pathways to Management and Leadership: Level 5 Management and Leadership: Managing Stakeholder Relationships Unit 509, Corby, CMI
+Gov UK, Employment Contracts Gov.UK Online https://www.gov.uk/employment-contracts-and-conditions/collective-agreements [6th October 2020]
+Heagney, J. (2016) Fundamentals of Project Management, 5th Edition (New York: American Management Association), p.50
+Kenny, G. (2014) Five Questions to Identify Key Stakeholders, Harvard Business Review Online at https://hbr.org/2014/03/five-questions-to-identify-key-stakeholders [Access date 17 June 2020]
+Pettinger, R. (2010) Organizational Behaviour: Performance Management in practice, Routledge, New York and London.
+Pettinger, R. (2012) Management: A concise introduction, Palgrove Macmillan, UK.

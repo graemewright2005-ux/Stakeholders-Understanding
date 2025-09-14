@@ -1,0 +1,648 @@
+Stakeholders
+This page intentionally left blank 
+Stakeholders
+Theory and Practice
+Andrew L. Friedman
+andSamantha Miles
+1
+3
+Great Clarendon Street, Oxford ox26dp
+Oxford University Press is a department of the University of Oxford.
+It furthers the University’s objective of excellence in research, scholarship,
+and education by publishing worldwide in
+Oxford New York
+Auckland Cape Town Dar es Salaam Hong Kong Karachi
+Kuala Lumpur Madrid Melbourne Mexico City Nairobi
+New Delhi Shanghai Taipei Toronto
+With o Yces in
+Argentina Austria Brazil Chile Czech Republic France Greece
+Guatemala Hungary Italy Japan Poland Portugal Singapore
+South Korea Switzerland Thailand Turkey Ukraine Vietnam
+Oxford is a registered trade mark of Oxford University Press
+in the UK and in certain other countries
+Published in the United States
+by Oxford University Press Inc., New York
+/C223Oxford University Press 2006
+The moral rights of the authors have been asserted
+Database right Oxford University Press (maker)
+First published 2006
+All rights reserved. No part of this publication may be reproduced,
+stored in a retrieval system, or transmitted, in any form or by any means,without the prior permission in writing of Oxford University Press,
+or as expressly permitted by law, or under terms agreed with the appropriate
+reprographics rights organization. Enquiries concerning reproductionoutside the scope of the above should be sent to the Rights Department,
+Oxford University Press, at the address above
+You must not circulate this book in any other binding or cover
+and you must impose the same condition on any acquirer
+British Library Cataloguing in Publication Data
+Data available
+Library of Congress Cataloging in Publication Data
+Friedman, Andrew L.
+Stakeholders : theory and practice / Andrew L. Friedman and Samantha Miles.
+P . cm.
+ISBN-13: 978-0-19-926987-7 (alk.paper)
+ISBN-10: 0-19-926987-4 (alk.paper)ISBN-13: 978-0-19-926986-0 (alk.paper)
+ISBN-10: 0-19-926986-6 (alk. paper)
+1. Strategic planning. 2. Business ethics. 3. Stockholders. I. Miles, Samantha,
+1969- II. Title.
+HD30.28.F73 2006
+306.3–dc22 2005032362
+Typeset by SPI Publisher Services, Pondicherry, India
+Printed in Great Britain
+on acid-free paper byAntony Rowe Ltd., Chippenham, Wiltshire
+ISBN 0-19-926986-6 978-0-19-926986-0
+ISBN 0-19-926987-4 (Pbk.) 978-0-19-926987-7 (Pbk.)
+135791 08642
+For Carla and Jon
+This page intentionally left blank 
+‘PREFACE
+The stakeholder field of theory, practice, and policy has reached a crossroads. Leading
+up to where we are now, there has been enormous growth in the popularity of theconcept among academics and policymakers and this has encouraged managers, stake-holders, and their representatives to develop practices informed by the stakeholderconcept. One clear path ahead is that the development of theory, practice, and policycontinue to reinforce each other, leading to greater and wider influence of the concepton practice and policy. However, as the concept has become more popular, the path hasbecome tangled with the many different ways the concept has been used. For example,different practices have come to be called stakeholder activities, particularly by thoseseeking to use the label to legitimize their actions. Also, a range of different definitions as
+to what a stakeholder is has emerged. Concentrating on these issues encourages a view of
+a second future path of the stakeholder field: as a fad that is rapidly passing its time ofinfluence, which peters out as a future marker for progress. Already we notice areluctance to use the word stakeholder among managers because of their concern thatits meaning is unclear.
+Aims and Approach
+The primary aim of Stakeholders: Theory and Practice is to encourage the field along the
+first path. This book analyses, classifies, and critiques the diffused strands of thestakeholder literature. The authors believe that such a ‘sorting’ is necessary because ofthe widely recognized ‘muddle’ that has accompanied the popularity of the stakeholderconcept. Major theoretical contributions are placed in the context of their philosophicalunderpinnings and are discussed along with literature aimed at recommending, de-scribing, and analysing practical strategies and specific policies. Though the stakeholderconcept is fairly new it has developed substantially, particularly since Freeman’s land-mark book of 1984. One important aspect of this development has been a decentring ofthe concept away from exclusive focus on corporate strategy and/or corporate morality.Although the overwhelming majority of the stakeholder literature is concerned withpublicly owned corporations, some have sought to open space for other kinds oforganizations to be considered (Smillie and Helmich 1999). More radically, ratherthan being limited to stakeholder management, representing how organizations ought
+to behave (for their own strategic good or for a wider social good), the concept has been
+widened by some to embrace stakeholders’ own perspectives as complementing, andsometimes opposing, the organization perspective (Calton and Lad 1995; Frooman1999). In this book we allow for a broad perspective by considering theories in relationtheorganization–stakeholder relationship . The design of this book supports this perspec-
+tive. It reflects distinctions, which we believe have been key to the historical develop-ment of the stakeholder concept, and will be important for the future influence of theconcept, and the agenda of those who see the concept as encouraging a change in howorganizations and stakeholders interact. These distinctions are:
+1. Among theory, practice, and policy. These are the subjects of distinct literatures that
+often show a surprising lack of appreciation of each other. A major purpose of thisbook is to bring these literatures together while emphasizing common themes. Foreach of these subjects a framework or model is presented to allow different contri-butions to be compared (Sections 3.2.4, 6.5, and 9.2).
+2. Between normative and analytical approaches. This distinction is commonly ex-
+pressed as a three-way classification: normative, instrumental, and descriptive. Theterm normative is generally used in the stakeholder literature in what would bethought of as the philosophic sense: as a prescriptive and categorical provision ofguidance for actions and policies in all circumstances because it is the ‘right’ thing todo. Elsewhere in management literature it is used in a hypothetical sense in the formof ‘If you want to achieve X, then do Y’ . Donaldson and Preston (1995) refer to this as‘instrumental’ . Here we use the term analytic to cover both instrumental theory anddescriptive theory (Section 2.6).
+3. Between organization-centred and stakeholder perspectives. This is one aspect of a
+general sensitivity to the social construction of the concept, i.e., sensitivity todiffering perspectives on the concept by different people, affected by their socialposition. The stakeholder relation is dynamic and potentially highly contested andthis can be reflected in the very concept of stakeholders being contested as well(Chapter 5).
+Limitations
+We concentrate on organization–stakeholder relations more than on macropoliticalissues of governance and the broader use of the concept of stakeholders such as theidea of stakeholder pensions. Both are important, but this book is mainly aimed atreaders interested in stakeholder management within organizations and the ways thatstakeholders influence organizations. Macro issues are approached in terms of theirviii PREFACE
+relevance for these more micro-level (or meso-level) theories and practice. We also do
+not concentrate on detailed review of evidence for specific hypotheses in the literature,although we do briefly review the evidence for the fundamental instrumental stake-holder proposition in Chapter 5.
+How to use Stakeholders: Theory and Practice
+This book is distinctive in that it deals with theory, practice, policy, and education.
+There are four types of books that specialize in the stakeholder field:
+1. Theoretical monographs that comprehensively deal with a single theory or a narrow
+collection of theories. Other theories are dealt with primarily as background leadingup to the theory being proposed, or are only summarized in order to point outtheir failings and how the proposed theory is an improvement (Clarkson 1994;Post, Preston, and Sachs 2002; Phillips 2003 b). These books may present recom-
+mendations for practice and policy but do not attempt a comprehensive reviewof either.
+2. Practical guides and presentation of examples of good and bad practice. These are
+intended more for managers in practice (Svendsen 1998; Andriof et al. 2002, 2003),rather than managers in education where more reflective approaches are called for.
+3. Collections of articles focused around a specific theme within the stakeholder field
+(Clarkson 1998; Sharma and Starik 2004) or a collection of papers given at a themedconference (Na ¨si 1995; Kelly, Kelly, and Gamble 1997). These are limited to the aspect
+of the stakeholder field that the editors or conference organizers believed to be new orimportant.
+4. Applications of the stakeholder concept to specific fields: financial reporting (Stittle
+2003), corporate governance (Alkhafaji 1989), business ethics (Weiss 1998, 2003),and marketing (Duncan and Moriarty 1997).
+Beyond these relatively few types of books, the vast majority of stakeholder literature is
+to be found in articles in a wide range of academic journals, as can be seen in theReferences to this book. Stakeholders: Theory and Practice is unlike all the above types of
+books in that it presents many theories, each in its own terms and not as part of buildingup to a single theory or as foils to the preferred theory. It is not primarily aimed atmanagement practitioners and is intended to guide students of management andmanagement strategy, as well as students studying business ethics, organization behav-iour, and related fields such as corporate governance, environmental management,sociology, and politics.PREFACE ix
+Stakeholders: Theory and Practice deals with the stakeholder field in a comprehensive
+manner. In this the only comparable book is Freeman (1984). Freeman surveyed use ofthe stakeholder concept up to the writing of his book. He expressed the concept clearly,emphasized the way the concept could be implemented by management in practice,discussed consequences of taking the concept seriously for business success and indeedsurvival, and issued warnings of the consequences of ignoring stakeholders for corpor-ate survival. What emerged from Freeman (1984) was a clear statement of the stake-holder concept, but what we would regard as a narrow statement in that it was writtenfrom the perspective of management and, more narrowly, of management strategy. Itwas also strongly slanted towards a descriptive and instrumental approach, rather than anormative approach (which Freeman himself took up with vigour subsequent to his1984 book).
+We regard Stakeholders: Theory and Practice as ‘updating’ Freeman (1984) in that we
+provide a summary of the development of the stakeholder concept up to 2005. Thisinvolves much more attention being devoted to developments of the concept, particu-larly since 1984, and to an assessment of the extent to which the concept has been putinto practice and has influenced policymaking and management education. The latter
+issues were not addressed by Freeman (1984) largely because they postdate his book.
+What emerges from Stakeholders: Theory and Practice is a complex statement of a
+multifarious stakeholder concept, replete with different philosophical underpinnings,many definitions of the term stakeholder, diverse implications for management practice,as well as implications for stakeholder strategies and actions and for policymakers. Thecontribution of Stakeholders: Theory and Practice is not, as for Freeman (1984), to
+provide a clear statement of the concept with clear implications for managementstrategy, but rather to provide a clear statement of this fundamental variety, via variousmethods and models, which allow the field to be ordered and more easily understood,and allow more considered judgements to be made on the diverse components ofthe field.
+An underlying reason for Strategic Management: A Stakeholder Approach was the
+turbulence Freeman detected in the situation of US business in the early 1980s:accelerated mergers and acquisitions; recognition of new and powerful competitorsfrom abroad, particularly Japan; and increased pressures at home on US corporationsfrom employees, environmentalists, the media, consumer groups, and other specialinterest groups. The stakeholder concept was presented as an important potentialremedy for these ills. An underlying reason for Stakeholders: Theory and Practice is
+turbulence in the stakeholder field, due to the variety of competing and complementaryformulations and of derived implications from different contributors (due to thepopularity of the stakeholder concept). This popularity has been driven not only byfurther development of many of the issues ‘on the ground’ that Freeman was respondingto (continued globalization and sensitization of stakeholders, and particularly thexPREFACE
+media, to organization–stakeholder relations), but also by new issues in practice, arising
+from the manner in which organizations have responded to the call for stakeholdermanagement. In consequence, the stakeholder concept is presented here as a relativelymature field of thought, practice, and policy where clarity in ordering the field is whatwe believe is required and what we have attempted to provide.
+The plethora of stakeholder theories and practices are classified along specific di-
+mensions using models in the form of figures. Concepts underlying the many stake-holder theories, as well as brief examples of stakeholder practice, are clearly set out in theform of vignettes. We have emphasized exposition at the expense of critique of existingstakeholder theory and practice. However, occasionally we have provided a criticalperspective, such as on the convergence debate (Section 5.3). Finally, at the end ofeach chapter we have provided a set of questions/exercises. By and large, these are broadand rather difficult questions to answer. We offer them as possible essay and dissertationtopics for students as well as pointers towards future directions of stakeholder research.PREFACE xi
+This page intentionally left blank 
+‘CONTENTS
+PREFACE VII
+LIST OF FIGURES XX
+LIST OF TABLES XXII
+LIST OF VIGNETTES XXIII
+LIST OF ABBREVIATIONS XXV
+ACKNOWLEDGEMENTS XXIX
+1 Introduction 1
+1.1 The stakeholder concept 1
+1.2 Context of the stakeholder concept and its popularity 3
+1.3 Stakeholder definitions: profusion and some confusion 3
+1.3.1 What is a stakeholder? 41.3.2 A model of stakeholder definitions 10
+1.3.3 Who are stakeholders? 13
+Questions/Exercises 15
+PART I THEORY AND THEORETICAL ISSUES 17
+2 History and the nature of stakeholder theorizing 19
+2.1 Introduction 19
+2.2 The soulless corporation 192.3 Early uses of the stakeholder concept (pre-Freeman 1984) 21
+2.3.1 Corporate social responsibility 21
+2.3.2 Management and corporate strategy 23
+2.4 Freeman (1984): the pivotal contribution to the stakeholder literature 25
+2.5 Recent popularity of the stakeholder concept 282.6 Normative, instrumental, and descriptive stakeholder theory:
+Donaldson and Preston (1995) 28
+2.7 Case 2.1: public use of private property and responsibility to stakeholders:
+the Berle and Dodd debate 31
+2.7.1 The context 31
+2.7.2 The debate 31
+Questions/Exercises 35
+3 Normative stakeholder theorizing 36
+3.1 Introduction 36
+3.2 Classifying normative stakeholder theories 37
+3.2.1 A framework for discussing normative theories: Bishop (2000) 37
+3.2.2 Liberal pragmatism (pluralism): Freeman (1994) 383.2.3 A classification of normative stakeholder theories: Hendry (2001) 39
+3.2.4 A taxonomy of normative stakeholder theories 40
+3.2.4.1 Normativity: futurity 40
+3.2.4.2 Normativity: outcomes versus justifications 42
+3.2.4.3 Elaboration of the first kind of theories 433.2.4.4 Elaboration of the second kind of theories 43
+3.2.4.5 Targets of normativity: agency 44
+3.3 Normative theories of the first kind 45
+3.3.1 Ecology and spirituality: Starik (1994) 45
+3.3.2 Kantian stakeholder theories 46
+3.3.2.1 Kantian capitalism: Evan and Freeman (1988, 1993) 47
+3.3.2.2 Kantian capitalism: Bowie (1999) 49
+3.3.3 Habermasian discourse ethics: Reed (1999, 2002) 50
+3.3.4 Integrative social contracts theory: Donaldson and Dunfee
+(1994, 1999) 54
+3.3.5 Rawlsian stakeholder theory 57
+3.3.5.1 Fair contracts: Freeman (1994, 2004) 583.3.5.2 Stakeholder fairness: Phillips (1997, 2003 b)5 9
+3.3.6 The common good: Argandon ˜a (1998) 62
+3.4 Normative theories of the second kind 64
+3.4.1 Feminist theories 64
+3.4.1.1 Feminist reinterpretation: Wicks, Gilbert,
+and Freeman (1994) 66
+3.4.1.2 Feminist ethics: Burton and Dunn (1996) 67
+3.4.2 Postmodern normative theories 68
+3.4.2.1 Stakeholder enabling: Calton and Kurland (1995) 70
+3.4.3 Stakeholders as investors 72
+3.4.3.1 Whose interests should corporations serve? Blair (1998) 72
+3.4.3.2 Dual investor theory: Schlossberger (1994) 733.4.3.3 Communitarian theory: Etzioni (1996, 1998) 74
+3.5 Normative theories of the third kind 76
+3.5.1 Property rights: Donaldson and Preston (1995) 76xiv CONTENTS
+3.5.2 Stakeholder paradox: Goodpaster (1991) 76
+3.5.3 Public policy: Boatright (1994) 78
+3.5.4 Aristotelian stakeholder theory: Wijnberg (2000) 79
+Questions/Exercises 80
+4 Analytic stakeholder theorizing 83
+4.1 Introduction 83
+4.2 Strategic/instrumental and organization-centric stakeholder models 84
+4.2.1 Strategic management: Freeman (1984) 84
+4.2.2 Strategies for assessing and managing stakeholders:
+Savage et al. (1991) 87
+4.2.3 A stakeholder framework for analysing and evaluating corporate
+social performance: Clarkson (1995) 89
+4.2.4 Instrumental stakeholder theory: Jones (1995) 904.2.5 Stakeholder identification and salience: Mitchell, Agle,
+and Wood (1997) 94
+4.2.6 A network theory of stakeholder influences: Rowley (1997) 97
+4.2.7 An organization life cycle approach: Jawahar and
+McLaughlin (2001) 99
+4.3 Strategic/instrumental and relationship-focused stakeholder models 101
+4.3.1 Critical realist stakeholder theory: Friedman and Miles (2002) 101
+4.4 Descriptive/positive and relationship-focused stakeholder models 106
+4.4.1 Stakeholder–agency theory: Hill and Jones (1992) 106
+4.5 Strategic/instrumental and stakeholder-centric stakeholder models 110
+4.5.1 Stakeholder influencing strategies: Frooman (1999) 110
+4.5.2 An interest- and identity-based model of stakeholder group
+mobilization: Rowley and Moldoveanu (2003) 112
+4.6 Comparison of strategic stakeholder models 114
+Questions/Exercises 116
+5 General theoretical stakeholder issues 118
+5.1 Introduction 118
+5.2 Critiques of the stakeholder concept 119
+5.2.1 Weakening the fiduciary duty owed by managers to stockholders 119
+5.2.2 Weakening the power of certain stakeholder groups 121
+5.2.3 Weakening the corporation as a whole 121
+5.2.4 Altering the long-term characteristics of the capitalist system 122CONTENTS xv
+5.3 The 1999 convergence debate: normative/instrumental/descriptive
+distinction revisited 122
+5.3.1 Convergence that is explicitly normative: Jones and Wicks 123
+5.3.2 Responses to the call for convergence 124
+5.3.2.1 Divergence: Freeman 124
+5.3.2.2 Stronger ‘glue’: Donaldson 125
+5.3.2.3 Lack of a research tradition: Trevin ˜o and Weaver 128
+5.3.2.4 Credibility of normative stakeholder theory: Gioia 129
+5.3.3 Response and counterarguments: Jones and Wicks 130
+5.4 Critical issues for analytical stakeholder theory: finer ontological distinctions 132
+5.4.1 Focus on managerial decision-making 133
+5.4.1.1 Stakeholder decision-making 133
+5.4.1.2 Complex managerial structures 133
+5.4.2 Categorizing intermediaries 134
+5.4.3 Stakeholder legitimacy 134
+5.5 Dynamic organization–stakeholder relations 135
+5.6 Revisiting the core of stakeholder theory 1365.7 Further ways of distinguishing contribution to the stakeholder literature:
+Stoney and Winstanley (2001) 139
+5.7.1 Political perspectives 139
+5.7.2 Purpose of stakeholding 141
+5.7.3 Ontology of stakeholding 141
+5.7.4 Level of stakeholder interventions 142
+5.7.5 Degree of stakeholder enforcement 143
+Questions/Exercises 144
+PART II PRACTICE: MANAGEMENT, STAKEHOLDERS, AND INTERMEDIARIES 147
+6 Stakeholder management from the perspective of the organization 149
+6.1 Introduction 149
+6.2 The principles of stakeholder management 151
+6.3 Stakeholder management paradigms 152
+6.4 Assessing the quality of engagement 1596.5 A ladder of stakeholder engagement 160
+6.6 Stakeholder management tools 164
+6.6.1 Levels 1 and 2 manipulation and therapy 164
+6.6.2 Level 3 informing 167xvi CONTENTS
+6.6.3 Level 4 explaining 169
+6.6.4 Level 5 placation 170
+6.6.5 Level 6 consultation 171
+6.6.6 Level 7 negotiation 172
+6.6.7 Level 8 involvement 1726.6.8 Level 9 collaboration 174
+6.6.9 Level 10 partnerships 175
+6.6.10 Level 11 delegated power 176
+6.6.11 Level 12 stakeholder control 176
+6.7 Surveys of stakeholder engagement 1776.8 Stakeholder management issues 179
+6.8.1 The process of stakeholder management 179
+6.8.2 Balancing stakeholder interests 182
+6.8.3 The impact of cultures or societies 185
+6.8.4 Issue management 185
+Questions/Exercises 187
+7 Stakeholder strategies and actions 188
+7.1 Introduction 188
+7.2 Stakeholder mobilization 189
+7.3 Stakeholder strategies to influence organizations 191
+7.4 Stakeholder withholding strategies 193
+7.4.1 Boycotts 193
+7.4.2 Labour strikes and other forms of labour actions 196
+7.4.3 Negative investment screening and exclusion 199
+7.5 Stakeholder usage strategies 200
+7.5.1 Positive investment screening 2007.5.2 Shareholder activism and proxy resolutions 201
+7.5.3 Stakeholder–organization alliances 205
+7.5.4 Divestitures 209
+7.6 Voice strategies 210
+7.6.1 Constructive dialogue 2107.6.2 Letter-writing campaigns 210
+7.6.3 Other voice strategies 212
+7.7 Damage strategies 212
+7.7.1 Introduction 212
+7.7.2 Boycotts as a damage strategy 214CONTENTS xvii
+7.7.3 Direct activism 214
+7.7.4 Modified vendettas 217
+7.8 Conclusion 217
+Questions/Exercises 218
+8 Intermediaries, the media, and stakeholder mismanagement 220
+8.1 Introduction 220
+8.2 Intermediaries in the organization–stakeholder relationship 221
+8.2.1 Intermediaries supporting stakeholders to influence focal
+organizations 222
+8.2.2 Intermediaries in organization strategies to influence stakeholders 224
+8.2.3 Commonalities and asymmetries between intermediaries
+acting for focal organizations and stakeholders 225
+8.3 (Mass) media as an intermediary 227
+8.3.1 Introduction 227
+8.3.2 Theories of the (mass) media 228
+8.3.3 A model of mass media to analyse organization–stakeholder
+relations 230
+8.3.3.1 Basic media model for analysing organization–stakeholder
+relations 230
+8.4 Stakeholder mismanagement and the role of the media 233
+8.5 Case study: suppliers as stakeholders at Marks & Spencer (UK) 237
+Questions/Exercises 240
+PART III POLICY AND MANAGEMENT EDUCATION 241
+9 National and international stakeholder policies 243
+9.1 Introduction 243
+9.2 A framework for assessing national and international policy 244
+9.2.1 Level of stakeholder intervention 246
+9.2.2 Nature of stakeholder enforcement 2479.2.3 Effectiveness of stakeholder enforcement 248
+9.3 Corporate social responsibility guidelines, laws, and regulations 250
+9.3.1 National and international regulations 250
+9.3.1.1 Laws and regulations concerning specific stakeholder
+groups 250
+9.3.1.2 Laws and regulations to protect stakeholders as a
+general category 253
+9.3.2 International voluntary CSR guidelines 255xviii CONTENTS
+9.4 Corporate governance 257
+9.5 Corporate environmental, social, and ethical reporting 260
+9.5.1 National CESER regulations 261
+9.5.2 Voluntary CESER guidelines 263
+9.5.3 Corporate benchmarking and pioneer reporters 2649.5.4 Professional benchmarking 264
+9.5.5 CESER awards schemes around the world 266
+9.6 Case 9.1: Enron and Arthur Andersen 269
+Questions/Exercises 274
+Appendix 9.1 275Appendix 9.2 281
+10 The Stakeholder concept and fields of management thought 289
+10.1 Introduction 289
+10.2 The influence of the stakeholder concept on fields of management
+thought 290
+10.3 Conclusion 297Questions/Exercises 298
+REFERENCES 299
+INDEX 323CONTENTS xix
+‘LIST OF FIGURES
+1.1Representation of strategic and normative dimensions to the narrowing of
+stakeholder definitions 11
+2.1Social responsiveness strategies/philosophies/responses 23
+2.2Stakeholder map of a very large organization around one major strategic issue 27
+2.3Three aspects of stakeholder theory 30
+3.1Normative stakeholder theories 41
+3.2Stakeholder map—legitimate, derivative, and non-stakeholders 61
+4.1Analytical stakeholder theories 84
+4.2Stakeholder strategy formulation process 86
+4.3Generic stakeholder strategies 87
+4.4Managing stakeholders: type and strategies 88
+4.5Model of stakeholder salience 94
+4.6Model of stakeholder priority for managers, stakeholder type, and associated
+attributes 96
+4.7Mapping stakeholder networks 97
+4.8A structural classification of stakeholder influences: organizational responses to
+stakeholder pressures 98
+4.9Stakeholder configurations, associated contractual forms andstrategic actions ,
+and associated stakeholder types 103
+4.10 The changing nature of Greenpeace–corporation relationships 105
+4.11 Benefit–cost relationship to stakeholders with increasing institutional complexity 109
+4.12 Typology of resource relationships and influencing strategies 111
+4.13 Stakeholder mobilization model 114
+4.14 Strategic stakeholder models and the strategy formulation process 115
+6.1Arnstein’s ladder of participation (annotated) (1969) 161
+6.2A ladder of stakeholder management and engagement 162
+6.3Allied Domecq stakeholder map 181
+6.4The four stages of issue development 186
+8.1Simple organization–stakeholder dyad 231
+8.2Organization–stakeholder dyad with intermediaries and media 231
+9.1A framework for assessing national and international policy 245
+9.2Nature of enforcement and level of interventions of stakeholder:
+mapping stakeholder laws, regulations, and guidelines 249
+9.3A five-stage model of CESER assessment 264
+9.4ACCA UK Environmental Reporting Awards criteria 268LIST OF FIGURES xxi
+‘LIST OF TABLES
+1.1Stakeholder definitions: chronological 5
+3.1A reasonable pluralism 39
+3.2Normative stakeholder theories: varieties of theories and focuses of debates 40
+3.3The normative basis of stakeholder claims: Habermasian view 52
+4.1The reactive–accommodative–defensive–proactive scale 89
+4.2Management stakeholder strategies and the organizational life cycle 100
+6.1Principles of stakeholder management 151
+7.1US stockholder resolutions: 1988–98 202
+7.2Factors influencing environment and business groups 206
+7.3Factors facilitating international, regional, and grass-roots campaigns 207
+9.1The UNEP/SustainAbility rating system of environmental reports 265
+9.2CESER award schemes around the world 267
+‘LIST OF VIGNETTES
+1.1What are fiduciary duties? 1
+1.2Memes 10
+3.1Pragmatism 38
+3.2Kant’s moral theory 46
+3.3Habermasian discourse ethics 50
+3.4What is a social contract? 54
+3.5Rawls’s theory of justice 57
+3.6The common good 62
+3.7Virtue ethics and feminist ethics 65
+3.8Postmodernism 69
+3.9Aristotelian ethics 79
+4.1Agency theory 91
+4.2Critical realism 101
+6.1Stakeholder management: the Saturn project 153
+6.2Stakeholder management at Starbucks 154
+6.3Stakeholder Engagement at British Telecom 155
+6.4Corporate Social and Environmental Reporting at easyJet 165
+6.5Stakeholder Reporting: CFS (UK) 168
+6.6Workshops and advisory panels: Shell (UK) and Greenpeace 171
+6.7Constructive dialogue: CFS (UK) 173
+6.8Strategic Alliances: McDonald’s and EDF (USA). 175
+6.9Community projects and the Canadian Forest Concept 177
+6.10 Balancing stakeholder interests at Railtrack (UK) 183
+7.1Consumer boycott: Heinz, Ralstons Purlina, and Pillsbury 195
+7.2Stakeholder boycott: Nestle ´and the International Baby Milk Action Network 195
+7.3Labour Strikes: 1989 Eastern Airlines 197
+7.4Shareholder activism: directors’ pay at GlaxoSmithKline (UK) 201
+7.5Shareholder resolutions: environmental resolution at Shell (UK) 203
+7.6Shareholder voting: Morley Investments, the Association of British Insurers,
+and CalPERS 204
+7.7Strategic alliance: WWF-UK Timber Group 208
+7.8Strategic alliance: the Timber/Fish/Wildlife Agreement for Washington State (USA) 208
+7.9Letter writing as a voice strategy: Debenhams (UK) and Robin Cooper 211
+7.10 Direct activism: Greenpeace and Du Pont 215
+8.1Intermediaries in the UK socially responsible investment sector 223
+8.2Role of intermediaries: EII and StarKist 228
+8.3Reporting of the GM food debate in the mass media 233
+8.4Johnson & Johnson and Tylenol 234
+8.5Nike and child labour 235
+8.6Unsuccessful strategic alliances: Pollution Probe and Loblaws (Canada) 236
+9.1Stakeholder Laws: Ben and Jerry’s 254
+9.2Corporate governance: the German Codetermination Law 257
+9.3The US Sarbanes–Oxley Act 258
+9.4Governance and Parmalat (Italy) 259
+9.5Mandatory CESER around the world 261
+10.1 Strategy and the stakeholder concept 291
+10.2 Accounting and finance and the stakeholder concept 292
+10.3 Marketing and the stakeholder concept 294
+10.4 Human resource management and the stakeholder concept 296xxiv LIST OF VIGNETTES
+‘LIST OF ABBREVIATIONS
+ABI Association of British Insurers
+ACCA Association of Chartered Certified AccountantsAGM Annual general meetingAI Amnesty InternationalAICPA American Institute of Certified Public Accountants
+AIDS Acquired immunodeficiency syndrome
+ALPA Airline Pilots Association
+ASAP As soon as possibleASSC Accounting Standards Steering CommitteeAT&T American Telephone and Telegraph CompanyBBC British Broadcasting Corporation
+BiC Business in the Community
+BiE Business in the Environment
+BITF Business Impact Task ForceBP British PetroleumBSC Balanced scorecardBSE Bovine spongiform encephalopathy
+BT British Telecom
+CAFE ´ Coffee And Farmer Equity
+CalPERS California Public Employees’ Retirement SystemCBS Columbia Broadcasting SystemCEFIC European Chemical Industry Council Reporting
+CEO Chief executive officer
+CERES Coalition for Environmentally Responsible Economies
+CESER Corporate Environmental, Social, and Ethical ReportingCFC ChlorofluorocarbonsCFO Chief financial officerCFS Co-operative Financial Services (UK)CICA Canadian Institute of Chartered Accountants
+CII Council of Institutional Investors
+CRPB Caux Roundtable Principles for BusinessCSP Corporate social performance
+CSR Corporate social responsibility
+CSX Chessie Seaboard Multiplier (railroad transportation company)CTC Centre for Tomorrow’s Company
+DEFRA Department for the Environment and Rural Affairs
+DTI Department for Trade and IndustryEDF Environmental Defense FundEFQM Excellence For Quality Management
+EII Earth Island Institute
+EIRIS Ethical Investment Research Information Services
+EMAS Eco-Management Audit Scheme
+EPA Environmental Protection AgencyEPE European Partners for the EnvironmentERA Environmental Reporting AwardsESS Enron Energy ServicesETI Ethical Trading Initiative
+EU European Union
+GEC General Electric CompanyGEMI Global Environmental Management InitiativeGM Genetically modifiedGMB General Municipal Boilermakers, a British trade union
+GRI Global Reporting Initiative
+GSK GlaxoSmithKline
+GSP Global Sullivan PrinciplesFTSE Financial Times Stock ExchangeHRM Human resource managementIAM International Association of Machinists (US trade union)
+IASB International Accounting Standards Board
+IASC International Accounting Standards Committee
+IBM International Business MachinesICC International Chamber of CommerceIFA Independent Financial AdvisersIiP Investors in Peoplexxvi LIST OF ABBREVIATIONS
+ILO International Labour Organization
+ISCT Integrative Social Contracts TheoryISEA Institute for Social and Ethical AccountAbility
+ISO International Organisation for Standarisation
+JEDI Joint Energy Development InitiativeKLD Kinder, Lydenberg, Domini, and Company
+KPI Key performance indicator
+LBG London Benchmarking GroupLJM A Special Purpose Entity created at EnronM&S Marks & Spencer
+MBA Masters in Business Administration
+MEB Management Institute for Environment and Business
+MIT Massachusetts Institute of Technology
+MNE Multinational enterpriseNGO Non-governmental organizationOECD Organization for Economic Co-operation and DevelopmentOFR Operating and Financial ReviewORR Office of the Rail Regulator
+OXERA Oxford Economic Research Associates
+PCAOB Public Company Accounting Oversight BoardP/E Market Price to Earnings RatioPERI Public Environmental Reporting InitiativePESTEL Political, Economic, Social, Technological, Environmental and Legal
+PIRC Pensions & Investment Research Consultants
+PP Pollution Probe
+PR Public RelationsRADP Reactive–accommodative–defensive–proactiveRSA Royal Society for ArtsSA8000 Social Accountability 8000
+SEC Securities and Exchange Commission
+SIGMA Sustainability Integrated Guidelines for Management
+SME Small and medium-sized enterprisesSPE Special Purpose EntitiesSRI Socially responsible investmentSWOT Strengths, weaknesses, opportunities, and threatsLIST OF ABBREVIATIONS xxvii
+TNS The Natural Step
+UK United KingdomUKSIF United Kingdom Social Investment Forum
+UN United Nations
+UNCTAD United Nations Conference on Trade and DevelopmentUNEP United Nations Environmental Programme
+UNGC United Nations Global Compact
+WBCSD World Business Council for Sustainable DevelopmentWWF World Wide Fund for Nature (formerly World Wildlife Fund)xxviii LIST OF ABBREVIATIONS
+‘ACKNOWLEDGEMENTS
+The authors would like to thank Penelope Simons and Christina Willliams who read all
+or parts of the manuscript and made useful suggestions. We would also like to thank our‘public’ offices in Bristol: the Boston Tea Party, Cattleman Restaurant, J. J. Bean andQuartier Vert.
+This page intentionally left blank 
+1Introduction
+1.1The stakeholder concept
+The classic de Wnition of a stakeholder is ‘any group or individual who can a Vect or is
+aVected by the achievement of the organization’s objectives’ (Freeman 1984: 46). 1At its
+broadest and most ambitious the stakeholder concept represents a rede Wnition of all
+organizations: how they should be conceptualized and what they should be. Theorganization itself should be thought of as a grouping of stakeholders and the purposeof the organization should be to manage their interests, needs and viewpoints. In sodoing, a particular group of stakeholders—(top-level) managers—are thought of as thefocal group, charged with ful Wlling the role of stakeholder management. The concept
+was elaborated by Evan and Freeman (1993: 82) as the following two principles:
+1.Principle of corporate legitimacy . The corporation should be managed for the bene Wt
+of its stakeholders: its customers, suppliers, owners, employees, and local commu-nities. The rights of these groups must be ensured, and, further, the groups mustparticipate, in some sense, in decisions that substantially a Vect their welfare.
+2.The stakeholder Wduciary principle . Management bears a Wduciary relationship
+(Vignette 1.1) to stakeholders and to the corporation as an abstract entity. It mustact in the interests of the stakeholders as their agent, and it must act in the interests ofthe corporation to ensure the survival of the Wrm, safeguarding the long-term stakes
+of each group.
+Vignette 1.1 WHAT ARE FIDUCIARY DUTIES?
+Fiduciary duties are duties of one who holds something in trust, according to the Oxford English Dictionary . The
+duties required are honesty, adequate care for that which is entrusted, and transparency and trust that the
+fiduciary will avoid personal gain or harm to the beneficiary (Marens and Wicks 1999). This is most commonly
+associated with the relationship between management and shareholders. Unlike other agents who provide the
+corporation with various types of capital, contracts or other forms of safeguards do not protect shareholders
+(due to their claim being residual and not relating to specific assets) rendering their investment open to greater
+risk. Consequently, fiduciary duties are imposed on managers to protect the shareholders as legal owners who
+are not in a position to manage their own affairs. Legally, the relationship is not with the shareholder but with
+the shareholder’s investment.
+The de Wnition of a stakeholder, the characterization of the organization and its
+purpose, characterizations of the role that managers do take on or should take onare all contested, even within the ‘camp’ of those who would consider themselves tobe proponents of the stakeholder concept. Freeman uses a di Verent de Wnition of
+stakeholders as ‘those groups who are vital to the survival and success of the corpor-ation’ (2004: 58) in later work in which the two principles are altered and renamed(2004: 64):
+1.The stakeholder-enabling principle . Corporations shall be managed in the interests of
+stakeholders.
+2.The principle of director responsibility . Directors of the corporation shall have a duty
+of care to use reasonable judgement to de Wne and direct the a Vairs of the corporation
+in accordance with the stakeholder-enabling principle.
+He adds a further principle, which re Xects a relatively new tendency in stakeholder
+theory, i.e. to consider the stakeholder concept from the perspective of the stakeholdersthemselves and their activities (2004: 64):
+The principle of stakeholder recourse . Stakeholders may bring an action against the directors for
+failure to perform the required duty of care.
+These elaborations of the stakeholder concept are versions of normative stakeholder
+theory, meaning theories of how managers (and sometimes stakeholders) shouldact and should view the purpose of the organization, based on some ethical principle.There are other approaches to the stakeholder concept. Some are concerned withhow managers and stakeholders actually behave and how they view their actionsand roles. These have been labelled as descriptive stakeholder theory. Some are con-
+cerned with how managers should act if they are to further their own interests orwhat theorists conceive as the interests of the organization, usually viewed as (long-run) pro Wt maximization or maximization of stockholder value. This strategic
+approach is generally based on what has been called instrumental stakeholder theory,
+which is the proposition that if managers treat stakeholders in line with the stake-holder concept, then the organization will be more successful or more likely to besustainable. This three-way categorization of approaches to the stakeholder conceptwas popularized by Donaldson and Preston (1995). Relations among these ways ofelaborating the stakeholder concept have been subject to considerable debate in theacademic literature. This is discussed in Chapters 2 and 5. A discussion of the rangeof stakeholder de Wnitions and the range of groups included in the de Wnition follows
+in Section 1.3.2INTRODUCTION
+1.2Context of the stakeholder concept
+and its popularity
+Interest in the concept of stakeholders among academics has burgeoned in recent years.
+Donaldson and Preston (1995: 65) noted that a dozen books and more than 100 articlesprimarily concerned with the stakeholder concept had appeared. Since then interest inthe stakeholder concept has quickened even further. Simply type out the word stake-holders in a search engine such as Google Scholar and you will Wnd more than 100,000
+references. 2Several issues of notable journals have been devoted to elaborating and
+debating the stakeholder concept ( Business Ethics Quarterly , 1994: 4/4; 2002: 12/2;
+Critical Perspectives in Accounting , 1998: 9/2; Academy of Management Review , 1999:
+24/2; Academy of Management Journal , 1999: 42/5). The stakeholder concept has also
+grown in popularity among policymakers, regulators, non-governmental organizations(NGOs), business, and the media (Section 2.5).
+Many contributors to the stakeholder concept have made their contributions (par-
+ticularly normative contributions) in debate with those who promote the chief rivalvision of the corporation and the role of its top managers: the stockholder (shareholder) 3
+model, based on ownership. The objective of the corporation is to maximize stockholdervalue expressed either as maximizing long-run pro Wts, growth, or dividends (though
+how long this long run should be is debatable). Friedman (1962: 74) argued that this isthe ‘one and only social responsibility of business’ as long as companies keep to the rulesof the capitalist game, i.e. ‘engage in open and free competition without deception orfraud’ . However, this view appears to be giving way to the view that business has wider
+responsibilities and that those responsibilities are best expressed in terms of the stake-
+holder concept. A further measure of the popularity of the stakeholder concept has beenthe recent proliferation of literature broadly contesting the concept and reiterating theview that stakeholder concept promoters have been speci Wcally trying to replace (Argenti
+1993, 1997; Sternberg 1997, 2000; Marcoux 2000, 2003) (Section 5.2).
+1.3Stakeholder definitions: profusion and some
+confusion
+Partly in consequence of its popularity, the stakeholder concept has come to be used in a
+variety of contexts, often with somewhat di Verent de Wnitions of stakeholders. This has
+led to the concept being criticized as:INTRODUCTION 3
+.A ‘muddling of theoretical bases and objectives’ (Donaldson and Preston 1995: 73).
+.‘A rather vague and cryptic concept that is open to a wide variety of rather divergent
+political interpretations’ (referring to a vision of a stakeholder society, Hay 1996: 47).
+.A ‘slippery creature . . . used by di Verent people to mean widely di Verent things which
+happen to suit their arguments’ (Weyer 1996: 35).
+.The term stakeholding becoming ‘content free’ meaning ‘almost anything the author
+desires’ and the stakeholder debate becoming ‘confused’ and ‘often shallow’ in nature(Stoney and Winstanley 2001: 650).
+DiVerent literatures adopting di Verent de Wnitions have hampered cross-discipline re-
+search and debate. This may be thought of as an example of negative consequences ofthe elaboration of discourse. Groups of writers come to coalesce around particularsocial constructions of reality, leading to writers referring to stakeholders without beingaware of relevant theoretical issues that have been raised in other literatures. Forexample, Roberts and Mahoney (2004: 400) criticized accounting researchers who either‘fail to incorporate stakeholder research published in business ethics literature’ or ‘relyon diVerent versions of stakeholder theory’ . They examined 125 accounting studies that
+use stakeholder language and found that nearly two-thirds ‘use the term stakeholder
+without reference to any version of stakeholder theory’ . Writers use the same label torefer to substantially di Verent concepts, for example some use the term ‘stakeholders’ ,
+but are clearly referring only to legitimate stakeholders, without de Wning legitimacy
+(Section 5.4.3). Others use a much broader de Wnition. This distinction can have
+substantial consequences on ethical, strategic, and policy conclusions.
+1.3.1 WHAT IS A STAKEHOLDER?
+Table 1.1 presents a summary of Wfty-Wve de Wnitions covering seventy- Wve texts ar-
+ranged in chronological order. 4The earliest de Wnition is often credited to an internal
+memo produced in 1963 by the Stanford Research Institute: ‘those groups withoutwhose support the organization would cease to exist’ 5(Freeman, 1984: 31). Similar
+deWnitions have been advocated by Bowie (1988), Freeman and Reed (1983), and Na ¨si
+(1995). Freeman (2004: 58) has continued to use this de Wnition in a modi Wed form:
+‘those groups who are vital to the survival and success of the organization’ . Clearly, thisdeWnition is entirely organization-centric. It is also a stringent de Wnition; it excludes
+categories of agents that other de Wnitions include.
+In what is commonly regarded, at least in academic circles, as seminal stakeholder
+text, stakeholders are de Wned as ‘any group or individual who can a Vect or is a Vected by
+the achievement of the organization objectives’ (Freeman 1984: 46). Table 1.1 gives anindication of the popularity of this de Wnition. This de Wnition is more balanced and4INTRODUCTION
+Table 1.1 Stakeholder definitions: chronological
+Date Author Stakeholder definition
+1963 1. Stanford Research Institute Those groups without whose support the
+organization would cease to exist
+1964 2. Rhenman adopted by:
+3. Steadman and Green (1997)Are depending on the firm in order to achieve
+their personal goals and on whom the firm isdepending for its existence
+1965 4. Ansoff (1965 a: 34) The objectives of the firm should be derived
+balancing the conflicting claims of the various
+‘stakeholders’ in the firm. . . . The firm has a
+responsibility to all of these and must configure its
+objectives so as to give each a measure of
+satisfaction
+1971 5. Ahlstedt and Jahnukainen Driven by their own interests and goals are
+participants in a firm, and thus depending on itand for whose sake the firm is depending
+1983 6. Freeman and Reed (1983: 91) Wide: can affect the achievements of an
+organization’s objectives to who is affected by the
+achievement of an organization’s objectives
+Narrow: on which the organization is dependentfor its continual survival
+1984 7. Freeman (1984: 46) adopted by:
+8. Berman et al. (1999)Can affect or is affected by the achievements of
+the organization’s objectives
+9. Burton and Dunn (1996)
+10. Calton and Kurland (1995)11. Frooman (1999)12. Goodpaster (1991)
+13. Greenley and Foxall (1997)
+14. Heugens, Van den Bosch, and Van Riel (2002)15. Jawahar and McLaughlin (2001)16. Jones and Wicks (1999 a)
+17. Kujala (2001)
+18. Metcalfe (1998)19. Page (2002)
+20. Roberts (1992)
+21. Rowley and Moldoveanu (2003)22. Rowley (1997)23. Sternberg (1997)
+24. Wood and Jones (1995)
+1987 25. Cornell and Shapiro (1987: 5) ‘Claimants’ who have ‘contracts’
+26. Freeman and Gilbert Can affect or is affected by business
+1988 27. Bowie (1988: 112) Without whose support the organization would
+cease to exist
+28. Evan and Freeman Have a stake or claim in the firm
+Benefit from or are harmed by, and whose rights
+are violated or respected by, corporate actions
+(contd. )INTRODUCTION 5
+Table 1.1 (contd. )
+Date Author Stakeholder definition
+1989 29. Alkhafaji (1989: 36) Groups to whom the corporation is responsible
+30. Carroll Asserts to have one or more of these kinds of stakes,
+which range from an interest to a right (legal or moral)
+to ownership or legal title to the company’s assets or
+property
+1990 31. Freeman and Evan Contract holders1991 32. Low (1991: 336) All those who have an interest in the firm’s survival
+33. Miller and Lewis (1991: 55) Stakeholders are people who can help or hurt the
+corporation
+34. Savage et al. (1991: 61) Have an interest in the actions of an organization and
+have the ability to influence it
+35. Thompson, Wartick, and Smith (1991: 209) In ‘relationship with an organization’
+1992 36. Hill and Jones (1992: 133) Constituents who have a legitimate claim on the
+firm . . . established through the existence of an
+exchange relationship . They supply ‘the firm with
+critical resources (contributions) and in exchange eachexpects its interests to be satisfied (by inducements)’
+37. Palgrave et al. (1992) Those whose welfare is tied with a company
+1993 38. Brenner (1993: 205) Having some legitimate, non-trivial relationship with
+an organization (such as) exchange transactions,action impacts, and moral responsibilities
+39. Carroll (1993: 22) Individuals or groups with which business interacts
+who have a stake or vested interest in the firm. Asserts
+to have or may have more of the kinds of stakes inbusiness . . . may be affected or affect. Power and
+legitimacy
+40. Starik (1993: 22) Any naturally occurring entity that affects or is
+affected by organizational performance
+1994 41. Clarkson (1994: 5) Bear some form of risk as a result of having invested
+some sort of capital, human or financial, something ofvalue, in a firm . . . [or] . . . are placed at risk as a result
+of a firm’s activities
+42. Freeman (1994 a: 415) Participants in ‘the human process of joint value
+creation’
+43. Langtry (1994: 433) The firm is significantly responsible for their well-
+being or they hold a moral or legal claim on the firm
+44. Mahoney Passive stakeholders who have a moral claim on the
+company not to infringe liberties or inflict harm and
+active stakeholders those whose claims are more in
+the nature of welfare rights
+45. Schlossberger Investors who provide specific capital or opportunity
+capital to a business
+46. Starik (1994: 90) Can and are making their actual stakes known ...o r
+might be influenced by, or are potentially influencersof, some organization whether or not this influence isperceived or known
+47. Wicks, Gilbert, and Freeman (1994: 483) Interact with and give meaning and definition to the
+corporation6INTRODUCTION
