@@ -9,7 +9,7 @@ OUTPUT_DIR.mkdir(exist_ok=True)
 
 CROSSREF_API = "https://api.crossref.org/works"
 UNPAYWALL_API = "https://api.unpaywall.org/v2"
-UNPAYWALL_EMAIL = "your-email@example.com"  # Replace with your real email for polite API use
+UNPAYWALL_EMAIL = "graemewright@weston.ac.uk"  # Replace with your real email for polite API use
 
 def search_crossref(reference):
     params = {'query.bibliographic': reference, 'rows': 1}
