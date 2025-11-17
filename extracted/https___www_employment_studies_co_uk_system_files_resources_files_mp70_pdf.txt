@@ -1,0 +1,1551 @@
+URL: https://www.employment-studies.co.uk/system/files/resources/files/mp70.pdf
+
+Pulling Together 
+Getting the Most out of Teams 
+Paul Suff 
+Peter Reilly 
+
+Published  by: 
+INSTITUTE  FOR EMPLOYMENT  STUDIES  
+Mantell Building  
+University  of Sussex 
+Falmer 
+Brighton  BN1 9RF 
+UK 
+Tel. + 44 (0) 1273 686751 
+Fax + 44 (0) 1273 690430 
+http://www.employment ‐studies.co.uk  
+Copyright  © 2006 Institute for Employment  Studies 
+No part of this publication  may be reproduced  or used in any form by any means—
+graphic, electronic  or mechanical  including  photocopying,  recording,  taping or 
+information  storage or retrieval systems—without  prior permission  in writing from 
+the Institute for Employment  Studies. 
+The Institute for Employment Studies 
+The Institute for Employment  Studies is an independent,  apolitical,  international  
+centre of research and consultancy  in human resource  issues. It works closely with 
+employers  in the manufacturing,  service and public sectors, government  departments,  
+agencies,  and professional  and employee  bodies. For over 35 years the Institute has 
+been a focus of knowledge  and practical  experience  in employment  and training 
+policy, the operation  of labour markets and human resource  planning  and 
+development.  IES is a not‐for‐profit organisation  which has over 60 multidisciplinary  
+staff and international  associates.  IES expertise  is available  to all organisations  
+through research,  consultancy,  publications  and the Internet. 
+IES aims to help bring about sustainable  improvements  in employment  policy and 
+human resource  management.  IES achieves  this by increasing  the understanding  and 
+improving  the practice of key decision makers in policy bodies and employing  
+organisations.  
+The IES Research Networks 
+This report is the product of a study supported  by the IES Research  Networks,  
+through which Members  finance, and often participate  in, applied research on 
+employment  issues. Full information  on Membership  is available  from IES on request, 
+or at www.employment ‐studies.co.uk/networks/.  
+ 
+ iiiContents 
+Contents   iii 
+Introduction   1 
+Background   3 
+Overview   3 
+Types of teams  4 
+Team structures   7 
+Managing  Team Performance   11 
+Overview   11 
+Key characteristics  for good performance   12 
+Measuring  team performance   27 
+Rewarding  teams  34 
+Conclusions   39 
+References   41 
+ 
+ 
+ iv
+Pulling Together: Making the Most out of Teams  
+1Introduction 
+The majority of UK organisations  use some form of teamworking  (Kersley et al., 2006). 
+When it operates effectively,  working  in groups produces  improvements  in 
+productivity,  quality and customer  satisfaction  levels, as well as enhanced  employee  
+flexibility  and commitment  (Piczak and Hauser 1996). When it goes wrong, efficiency  
+and productivity  fall as conflict and rivalry replace group cohesion  and co‐operation.  
+Part of the problem is that introducing  teamworking  in an organisation  is far from 
+straightforward  and many obstacles  need to be overcome  (IDS, 2003). Selecting  the 
+composition  of the group, setting team goals and boundaries,  establishing  effective 
+team leadership  and group decision‐making processes,  building  relationships  
+between members,  managing  group performance  and deciding  how best to reward 
+team members,  for example,  are not easy. Sometimes  the functioning  of a group is less 
+effective than the aggregate  of individual  efforts, as some members  will work less 
+hard when their efforts are masked by those of others than when they are individually  
+accountable  (West, 1996). At other times, group decisions,  though often of better 
+quality than the average put forward individually  by group members,  tend to be 
+inferior to those of the most capable team members.   
+Yet today’s workplace  is teeming with teams (Robbins  and Finley, 1997). There are 
+work teams, project teams, customer  support teams, design teams, planning  teams, 
+problem‐solving teams and quality teams. There are functional  teams and cross‐
+functional  or multidisciplinary  teams. There are managed  and self‐managed  teams. 
+There are permanent  teams and temporary  teams. There are also ‘virtual’ teams 
+spread across different  locations,  which, given technological  advances,  rarely, if ever, 
+meet. As Katzenbach  and Smith (1993a) acknowledge,  teams are the basic units of 
+performance  in most organisations.   
+For employers,  teamworking  has a number of potential  benefits. Organising  work 
+around groups of employees  can help to increase competitiveness  by making more 
+effective and efficient use of labour (Acas, 2005). It can create ways of working  that 
+achieve a faster reaction to customer,  client and organisational  needs (Industrial  
+Society, 1998). Teamworking  can also speed the spread of ideas, helping the 
+organisation  to respond to opportunities  and threats and to the fast‐changing  business  
+environment  (CIPD, 2006a). There are potential  advantages  for employees  too, 
+including  undertaking  more tasks and having a degree of control over how their work 
+is structured  and organised  (IDS, 2003).  
+Successful  teamworking  requires adequate  organisational  support and the right 
+environment.  Traditionally,  managers  have managed  individuals,  with systems and 
+structures  focusing  on what each employee  contributes  as an individual.  As Acas 
+(2005) makes clear: ‘teamwork  requires a participative  style of management  where 
+employees  have significant  degree of control over their own work’. In such 
+circumstances,  the role of the manager/supervisor  shifts from one of ‘controller’  to 
+2006 © Institute for Employment Studies  
+2‘initiator,  counsellor  and facilitator’.  Changes  in supervision  and devolving  decision 
+making raise questions  about how best to manage and assess performance  to ensure 
+an organisation  gets the best out of its teams. Research  suggests  that many 
+organisations  are struggling  to measure  all the critical elements  of team performance,  
+with assessment  done, at best, in an ad hoc manner (Mendibil  et al., 2001). An 
+inability to properly  measure  and manage teams prevents  organisations  from making 
+use of the full potential  of teamworking.  
+Pulling Together: Making the Most out of Teams  
+3Background 
+Overview 
+‘A team is a small number of people with complementary  skills who are committed  to a 
+common purpose, performance  goals and approach for which they hold themselves  mutually 
+accountable.’   
+Katzenbach  and Smith, 1993a 
+Teamworking  has evolved over the years, largely from early experiments  in ways of 
+improving  employee  motivation,  such as those conducted  at Western Electric’s  
+Hawthorne  plant in the US between 1927 and 1932, and those based on socio‐technical  
+systems (STS) theory, which looked at work design and developing  the optimal 
+combination  of technical  work and social work structures.  Most of the research into 
+teamworking  has focused on the manufacturing  sector (Acas, 2005). However,  
+teamworking,  as a way of organising  work, is fairly common  in most UK workplaces.  
+Teamworking  is now the preferred  method of work organisation  in most UK 
+organisations,  at least for some employees.  Results of the most recent Workplace  
+Employment  Relations  Survey (WERS, 2004) reveal that 72 per cent of workplaces  
+involved  at least some of their core employees  in formally  designated  teams – similar 
+to the proportion  (74 per cent) found in 1998 (Kersley et al., 2006).  
+The various types of teams tend to fall into one of four categories  – organisational  
+teams, such as the top management  team; work teams, which are dependent  on one 
+another to deliver a specified  outcome;  project teams, established  to carry out a set 
+piece of work; and ad hoc teams, set up to deal with specific issues (Armstrong,  1999). 
+However,  not all work groups can be classed as teams, as Katzenbach  and Smith 
+(1993a) point out: ‘A team (is not) just any group working together.  Committees,  
+councils and tasks forces are not necessarily  teams. Groups do not become teams 
+simply because that is what someone  calls them’. 
+Team members  should rarely number more than 15, though some organisations  
+operate much larger teams, or have less than six members:  too few members  could 
+limit the range of skills, while too big a group will encourage  teams within the team to 
+emerge. Two influential  models of team roles – Belbin (1993) and Margerison  and 
+2006 © Institute for Employment Studies  
+4McCann  (1991) – have been developed  and both stress the need for a team to be made 
+up of good mix of types of employee,  such that in any one area team members’  
+strengths  counteract  the deficiencies  of others and vice versa.  
+Types of teams 
+There are a wide variety of types of teams. Torrington  et al. (2002) say that teams 
+differ in terms of their timespan  (temporary  or permanent),  interchangeability  
+(group’s range of specific skills), and task and functional  range (breadth  of tasks the 
+team is required  to perform).  They contend that there are four broad team types: 
+1. Production  and service teams – group of individuals  with responsibility  for a 
+whole chunk of the production  process, for example.  The WERS figures suggest 
+this is the most common  form in the UK. In 83 per cent of cases, teams have 
+responsibility  for specific products  or services (Kersley,  2006). 
+2. Cross‐functional  management  teams – made up of individuals  from a range of 
+functions,  such as marketing,  research,  sales and development.  
+3. Functional  teams – made up of individuals  within the same function.  
+4. Problem ‐solving teams – made up of individuals  from a range of functions  with 
+the aim of solving production  or quality problems,  for example.  
+Similarly,  Sundstrom  et al. (1990) place the different  types of teams into the following  
+four categories:  
+1. Advice and involvement  – examples  include advisory  panels, committees  and 
+employee  involvement  groups. 
+2. Production  and service – examples  include assembly  teams, maintenance  crews 
+and flight attendant  crews. 
+3. Project – examples  include research groups, task forces and architect  teams. 
+4. Organised  action – examples  include sports teams, negotiating  teams, expedition  
+teams, surgery teams and cockpit crews. 
+According  to this study, the different  types of teams are distinguished  by 
+characteristics,  such as the combination  of member expertise,  team’s degree of 
+integration  with other work units and team’s work cycle. For example,  the typical 
+work cycle of production  or service teams is repetitive  or continuous  whereas for 
+teams in the organised  action category  it is characterised  by brief performance  events 
+or repeated  under new conditions.   
+Parry et al. (1998) describe teams as mini organisations,  each with their own purpose,  
+levels of autonomy,  operating  procedures,  decision‐making and task design. They 
+distinguish  between:  
+Pulling Together: Making the Most out of Teams  
+5■ ‘Self‐directed’  teams, whose purpose is to create greater flexibility  and innovation  
+in permanent  work teams, with empowerment  a way of generating  commitment  
+and accountability.  
+■ ‘Lean’ teams, which operate in lean production  systems and have an emphasis  on 
+quality, continuous  improvement  and productivity.  
+■ ‘Project’ teams, which are used to sustain cross‐functional  teamworking,  and aim to 
+integrate  and compress  development  timescales.  
+Katzenbach  and Smith (1993b) identify three kinds of teams – those that: 
+1. recommend  things, such as forces or project groups 
+2. make or do things, such as manufacturing,  operations  or marketing  groups 
+3. run things, such as groups that oversee some significant  functional  activity. 
+Importantly,  Katzenbach  and Smith differentiate  between teams that are structured  in 
+a mindful way and other groups of people merely working  together.  They refer to 
+these as ‘true teams’ and working  groups, and the differences  between the two are 
+outlined in Table 1. 
+Table 1: Differences between teams and groups 
+‘True teams’ Working groups 
+Share leadership roles as they see fit Have a strong, clearly-focused leader 
+Mutual, collective accountabilit y Individual accountability 
+Create specific team ob jectives that they 
+deliver themselves Objectives are imposed, ma ndated, granted and/or are 
+the same as the broader organisational mission 
+Deliver collective products/outcomes De liver individual products/outcomes 
+Encourage open-ended discussion and active 
+problem-solving meetings Run efficient meetings 
+Measure performance directly by assessing 
+collective prod ucts/outcomes Measure effectiveness indirectly by their influence on 
+others 
+Discuss, decide and do ‘real’ work together Discuss, decide and delegate 
+Open and honest dialogue Polite discussions Have fun working together and laugh a lot Just work Cannot wait to be together Meet because they have to 
+Source: Katzenbach and Smith (1993b) 
+Based on typology  developed  by West (2004), the CIPD (2006a) offers the following,  
+though not exhaustive,  list of types of teams: 
+■ Production  and service teams – examples  include in product manufacturing,  
+construction,  sales and healthcare.  Such teams are characterised  as having a 
+relatively  long life‐span and providing  an ongoing product or service to customers  
+or the organisation.  
+2006 © Institute for Employment Studies  
+6■ Project and development  teams – examples  include research and product 
+development  teams. Such teams, which are often cross‐functional  with 
+membership  based on individual  expertise,  will be dedicated  to a particular  
+objective,  and have limited life‐spans and clear short‐term goals. 
+■ Advice and involvement  teams – groups aiming to improve,  for example,  working  
+conditions  or product/service  quality. Typically,  team members  do not devote a lot 
+of time to the team and once it has achieved  its objective  the team will be 
+disbanded.  
+■ Crews – examples  include airline crews. Such teams will often be formed from 
+people who have rarely worked together but will receive prior training so they 
+clearly understand  their role. 
+■ Action and negotiation  teams – examples  include surgical and legal teams, and 
+will consist of people who tend to regularly  work together.  Such teams will operate 
+under well‐developed  processes  and clear objectives.  
+■ Virtual teams – team members  will work in different  buildings  and/or locations  
+(such teams may fit into one of the other categories).  
+■ Self‐managed  teams – where decision‐making is devolved  from line managers  to 
+the team (such teams may fit into one of the other categories).   
+A typology  can be constructed  based on these team forms that distinguishes  on the 
+one axis between short term and long term teams, temporary  or permanent  ones (ie on 
+a temporal  dimension)  and between the scope of decision making on the other axis. 
+Table 2 illustrates  this idea: 
+Table 2: Teamworking organisational forms 
+Time/ decision Recommendation Delivery Oversight 
+Temporary, short term  Design teams Project teams  
+Permanent, long term  Development teams Production or se rvice teams Quality review teams 
+It is harder to illustrate  oversight  teams as they may fall into the category  of ‘groups’,  
+as defined by Katzenbach  and Smith (1993b) above. 
+WERS survey results suggest that around half of teams (49 per cent) were permanent,  
+a third (32 per cent) in place only for a fixed period of time, and the remainder  a 
+mixture of permanent  and temporary.  There are no statistics  on the decision‐making 
+focus. 
+The way teams are managed,  the freedom they are given, and the way they are 
+organised,  are other dimensions  that cut across those in the above table.  
+IDS (2003) says the most common  type continues  to be the permanent  (or process) 
+team, which is especially  popular in manufacturing  organisations  and increasingly  
+common  in service sector companies,  particularly  call‐centre operations.  However,  the 
+WERS 2004 results reveal that teamworking  was most commonly  found where core 
+Pulling Together: Making the Most out of Teams  
+7employees  worked in professional  occupations  (91 per cent) or associate  professional  
+and technical  occupations  (90 per cent), but much less widespread  where core 
+employees  were engaged in process, plant and machine  work (65 per cent) or were 
+skilled workers (68 per cent). Teamworking  is least common  in sales and customer  
+service occupations  (59 per cent). 
+These results challenge  the assumption  (implicit in the research undertaken)  that 
+teamworking  is a manufacturing  type of work organisation  and largely to be found 
+among blue collar workers.  Although  the proclivity  among employers  in the UK for 
+using non‐managerial  staff in team structures  comes through in WERS, it found that 
+79 per cent of workplaces  operate problem‐solving groups involve non‐managers  
+(Kersley,  2006).  
+As to the management  of teams, the WERS figures indicate that 61 per cent of staff 
+jointly decide how work is to be done and only six per cent appoint their own leader. 
+Interdependence  also appears to be the norm. The survey reports that 81 per cent of 
+employees  depend on each other’s work to be able to do their own job, but job 
+rotation is also common  with 66 per cent rotating tasks or roles within the group 
+(Kersely,  2006).  
+Team structures 
+Size 
+Teams vary in size, though most commentators  say teams should not be too large. 
+‘The team discipline  demands that a small number of people collaborate  to achieve common 
+purposes and goals. Rarely have we observed more than ten to 12 people team up effectively  
+without subdividing  in favour of smaller numbers,’  
+Katzenbach  and Smith (2001) 
+Neathey and Suff (1997) agree, recommending  the ‘right’ size for a self‐managed  team 
+as anything  between five and 15 people; a smaller number would in most cases be 
+impractical,  while many more could undermine  group cohesion  by creating sub‐
+groups, or teams within a team. They found that the average size of a team was ten 
+members.  Similarly,  Acas (2005), although  stating there are no strict rules about the 
+size of a team, which it says is often determined  by the nature of the operation  and 
+layout of the workplace,  recommends  a maximum  of 15 and a minimum  of six team 
+members.  In teams of fewer than six, it may be difficult to ensure members  have the 
+right skills, while teams with more than 15 members  have a tendency  to split into sub‐
+groups, says the conciliation  service. 
+IDS (2003), however,  says there is ‘no prescribed  optimum  team size’, noting that the 
+size of teams in the case study organisations  it describes  range from between eight 
+and 15 people at BMW Plant Group Oxford to 50 service engineers  making up a 
+service team at British Gas.  
+2006 © Institute for Employment Studies  
+8Roles 
+Teams need to contain the right mix of skills and experience.  Katzenbach  and Smith 
+(1993b) say skill requirements  fall into the following  three categories:  
+1. technical  or functional  expertise  
+2. problem‐solving and decision‐making skills 
+3. interpersonal  skills. 
+Based on their own strengths  and weaknesses  in these areas, as well as their 
+backgrounds,  team members  will generally  take on a specific role within the group – 
+often through mutual discovery  and understanding  to see who is best suited to each 
+of the different  roles required  in a group situation.  Belbin (1993) revised the set 
+significant  team roles he first developed  in 1981. According  to the author, the various 
+roles are the core of an effective decision‐making team as well as being essential  to 
+other kinds of workplace  teams. The nine team roles described  by Belbin (previously  
+there were eight) are outlined in the following  table (Table 3): 
+Table 3: Belbin’s team roles 
+Role Activities Characteristics 
+Co-ordinator (previously 
+chair person) Clarifies goals, helps allocate roles, 
+responsibilities and duties, promotes decision making Mature, confident, calm, impartial, 
+self-disciplined, positive thinker 
+Shaper Seeks patterns in group discussions, 
+has drive and cour age to overcome 
+obstacles High achiever, impatient, challenging, 
+dynamic, pushes group towards agreement and decision-making 
+Plant Advances proposals and new ideas, 
+provides insights on courses of action Creative, imaginat ive, unorthodox, 
+knowledgeable 
+Monitor/evaluator Analyses problems and complex 
+issues, assess the contributions of others, sees all options Sober, clever, discreet, unemotional 
+Implementer (previously 
+company worker) Turns ideas into practical action Tough-minded, practical, tolerant, 
+conscientious 
+Teamworker Provides personal support and help 
+to others, fosters team spirit Co-operative, mild, perceptive, 
+diplomatic 
+Resource investigator Explores opportunities, develops 
+contacts, negotiates with outsiders Extrovert, enthusia stic, versatile, 
+communicative 
+Completer Searches out errors, emphasises the 
+need to meet deadlines and completing tasks Perseverance, conscientious, attention 
+to detail, anxious 
+Specialist Provides skills and knowledge in 
+short supply Single-minded, self-starting, dedicated 
+Source: Adapted from Hayes (1997); CIPD (2006a) 
+A second classification  of roles has been developed  by Margerison  and McCann  
+(1991), and this model groups the eight overlapping  (or linked) roles into four general 
+Pulling Together: Making the Most out of Teams  
+9approaches:  explorers,  advisers,  controllers  and organisers.  The eight roles that make 
+up Margerison  and McCann’s  ‘Team Wheel’ are: 
+1. Creator–innovator  – someone  who enjoys thinking  up new ideas and ways of 
+doing things. 
+2. Explorer–promoter  – someone  who takes up new ideas and promotes  them to 
+others. 
+3. Assessor–developer  – someone  who takes up new ideas and makes them work in 
+practice. 
+4. Thruster–organiser  – someone  who gets things done, emphasises  targets, 
+deadlines  and budgets.  
+5. Concluder–producer  – someone  who develops  plans and standard  systems to 
+ensure outputs are achieved.  
+6. Controller–inspector  – someone  who is concerned  with the details, and adhering  
+to rules and regulations.  
+7. Upholder–maintainer  – someone  who provides  guidance  and help in meeting 
+standards.  
+8. Reporter–adviser  – someone  who gathers information  and communicates  it in an 
+easily understandable  way. 
+According  to Margerison  (2002), each team member possesses  certain strengths  
+around the Team Wheel, and other areas that are not so strong. The key, and the main 
+reason for having teamwork,  is that each person complements  the other with their 
+respective  strengths.  This can only be achieved  if there are good links between the 
+team members,  however.  So, for example,  someone  might be coming up with 
+excellent  ideas, but unless there are good links with those who are good at developing  
+and promoting  new ways of working,  their efforts will largely be wasted. Margerison  
+says ‘linking’ involves co‐ordinating  and integrating,  and are skills required  of all 
+team members.   
+The role of team leader is not straightforward  and largely depends  on how much 
+autonomy  is granted to the team. Acas (2005) says there are three basic ways of 
+dealing with team leadership:  
+1. Team leader is a supervisor  outside the team. 
+2. Team leader is a working  team member with the main responsibility  for direct 
+liaison with management.  
+3. Team operates without a designated  leader inside or outside the team. Various 
+members  of the team deal with leadership  and liaison with management  according  
+to task. 
+2006 © Institute for Employment Studies  
+10Where a traditional  management  hierarchy  exists above the team, the team leader role 
+is often similar to that of a traditional  supervisor.  But where a team has a significant  
+degree of autonomy  – such as a self‐managed  team – and where the traditional  
+managerial  has largely disappeared,  a team leader may take on traditional  line 
+management  activities  and the role may rotate. 
+There is also the question  of who appoints  the team leader, if there is one. The WERS 
+figures reported  earlier that teams appointing  their own leader are rare. Self managed  
+teams seem to be more popular without a designated  leader. 
+Pulling Together: Making the Most out of Teams  
+11Managing Team Performance 
+Overview 
+‘Managers  are finding it difficult not only to measure team performance,  but more 
+importantly  to manage and motivate the people within teams in a manner that is consistent  
+with the strategy and objectives  of the organisation.’  
+Mendibil  et al., 2001 
+Despite the popularity  and longevity  of teamworking  as a way of work organisation,  
+problems  persist in effectively  managing  teams, which means that, at best, 
+teamworking  fails to reach its full potential,  or, at worse, it is considered  a failure. 
+Mendibil  (2003) says the problem is not with teams, individuals,  empowerment  or the 
+structure,  but with organisational  design and management  philosophy,  and with 
+assigning  responsibility  and accountability.  
+Common  problems  include objectives  that are not aligned with organisational  
+strategy,  employee  performance  measurement  that is not linked to organisational  
+objectives  and a lack of understanding  of how to effectively  measure  team 
+performance.  Robins and Finley (1997) say there is no single reason why teams do not 
+always work well, but suggest that confusing  goals, bad policies and stupid 
+procedures,  bad leadership,  ill‐conceived  reward systems,  an anti‐team culture, and 
+insufficient  feedback  and information  are just some the common  problems  that exist. 
+The literature  identifies  a number of key characteristics  for good performance,  
+including  creating a common  sense of purpose,  agreeing  clear team goals, clarifying  
+roles, establishing  durable performance  standards  (including  a process for resolving  
+conflict),  developing  effective means of communication,  identifying  team 
+performance  measures,  and providing  organisational  support and resources.  Getting 
+the right mix of skills, experience  and potential  at the start is crucial, while leadership  
+is vital to successful  teams.  
+The role of middle managers  has largely disappeared,  with teamworking  becoming  
+the key working practice. Organisational  systems,  particularly  measuring  
+performance,  are failing to keep pace with the shift to process‐based structures  that 
+are increasingly  replacing  traditional  hierarchical  and functional  ones, however.  
+2006 © Institute for Employment Studies  
+12Hammer  and Stanton (1999) report that traditional  ways of measuring  performance,  
+determining  compensation,  providing  training and organising  facilities are tailored to 
+vertical units, not processes,  and to individuals,  not teams. Although  Zigon (1997) 
+acknowledges  that measuring  team performance  can be difficult,  it is essential  to do 
+so to ensure teams are moving the business  forward.   
+Key characteristics for good performance 
+The CIPD (2006a) lists the characteristics  of an effective team as: 
+■ a common  sense of purpose 
+■ a clear understanding  of the team’s objectives  
+■ resources  to achieve those objectives  
+■ mutual respect among team members,  both as individuals  and for the contribution  
+each makes to the team’s performance  
+■ valuing members’  strengths  and weaknesses   
+■ mutual trust 
+■ willingness  to share knowledge  and expertise  
+■ willingness  to speak openly 
+■ a range of skills among team members  to deal effectively  with all its tasks 
+■ a range of personal  styles for the various roles needed to carry out the team’s tasks.  
+Katzenbach  and Smith (1993a) recommend  the following  ‘how‐to recipe’ for 
+establishing  effective team performance:  
+■ Establish  urgency,  demanding  performance  standards  and direction  – all 
+members  need to believe the team has urgent and worthwhile  purposes,  and will 
+want to know what the expectations  are. 
+■ Select team members  for skill and skill potential,  not personality  – teams will 
+only succeed if they possess the skills to meet their purpose and performance  goals. 
+Rather than determining  what skills are required  after the team is formed, 
+managers  should select people both for their existing skills and their potential  to 
+improve  and learn new ones. 
+■ Set some clear rules of behaviour  – all effective teams set rules of conduct 
+(regarding  attendance,  contribution  and communication,  for example)  for 
+themselves  at the outset to help them achieve their performance  objectives.  
+■ Set a few immediate  performance ‐oriented  tasks and goals – the sooner a team 
+starts to achieve performance  goals, the sooner the team gels. 
+Pulling Together: Making the Most out of Teams  
+13■ Regularly  challenge  the group with fresh information  – new information  causes a 
+team to redefine its understanding  of its performance  challenge,  and will help it 
+shape a common  purpose,  set clearer goals and improve its common  approach.  
+■ Spend lots of time together  – teams require time to learn to be a team. Creative 
+insights and personal  bonding require impromptu  and casual interactions  as well 
+as carrying out day‐to‐day tasks together.  
+■ Exploit positive feedback,  recognition  and reward – positive reinforcement  works 
+as well in a team as elsewhere.   
+The same authors (Katzenbach  and Smith, 1993b) also say a team that is performing  
+well has the following  characteristics:  
+■ it is small in number 
+■ members  have complementary  skills 
+■ they are all working  towards a commonly  identified  purpose 
+■ the team has group performance  goals, in addition  to individual  goals 
+■ it has a common  approach  to working  together 
+■ members  hold themselves  mutually  accountable,  not just individually.   
+Similarly,  a study of teamworking  in primary healthcare  by the Royal Pharmaceutical  
+Society and the BMA (2000) found that effective teamwork  is most likely to occur 
+where: 
+■ each team member’s  role is seen as essential  
+■ roles are rewarding  
+■ there are clear team goals. 
+It also reported  that effective communication,  optimum  team size, recognition  of team 
+members’  professional  judgment  and discretion,  and adequate  time and resources  
+were important  in promoting  teamwork.  
+Research  by the Ashridge  Business  School identified  the following  five ‘success’  
+factors for high‐performing  teams operating  in complex  environments,  such as across 
+cultures,  time zones and organisational  boundaries  (Jones, 2006): 
+■ Focus on communication  – high‐performing  teams use a wide range of 
+communication  channels,  with, perhaps surprisingly,  greater use of telephones  
+than face‐to‐face communication.  The key is a clear communications  strategy as 
+well as a focus on what needs to be communicated,  who should be ‘in the loop’ and 
+agreement  about how communication  should take place. 
+■ Effective  use of technology  – high‐performing  teams had learned how to make the 
+best use of technology,  including,  for example,  establishing  an online meeting 
+2006 © Institute for Employment Studies  
+14management  tool that enables teams from around the world to work on projects 24 
+hours a day. 
+■ Develop  leadership  skills – high‐performing  team leaders tend to possess a range 
+of leadership  competencies,  including  the ability to manage upwards,  to focus on 
+outcomes  and deliverables,  and to motivate,  coach and encourage  team learning.  
+Ashridge  also found that high‐performing  team leaders know when to be flexible; 
+when to be clear about what is non‐negotiable  (such as targets and deliverables)  
+and when to allow the team to take responsibility.  
+■ Develop  shared responsibility  – high‐performing  teams tend to rely on ‘shared 
+leadership’,  which requires team members  to develop the maturity  to take on 
+greater responsibility,  coach and develop colleagues,  and build connections  across 
+the team. 
+■ Organisational  support – the support of HR and senior management  is vital to 
+high‐performing  teams, which tend to adopt new approaches  to managing  
+performance,  focus more on team‐related training,  and develop new ways of 
+working.   
+The characteristics of high-perform ing teams at Bayer Diagnostics  
+Clear objectives and agreed deals 
+■ discussed by team to ensure common understanding 
+■ agree specific results 
+■ all members involved and committed 
+Openness and confrontation 
+■ free expression with no fear  of ridicule or hostility 
+■ able to confront problems honestly 
+Support and trust 
+■ willing to admit weakness, give and receive help 
+■ understanding and valuing differences 
+Co-operation and conflict 
+■ putting the team’s interest before own 
+■ sharing of information and skills 
+■ conflict not avoided 
+Sound procedures 
+■ use optimum rules and methods 
+Pulling Together: Making the Most out of Teams  
+15■ adapting circumstan ces and resources 
+Appropriate leadership 
+■ able to adjust style 
+■ address individual needs while focusing on team 
+■ set positive example 
+Regular review 
+■ frank evaluation of  team performance 
+■ continuous learning and improvement 
+Individual development 
+■ seizing opportunities for challenge 
+■ learning through feedback 
+■ willing to make changes 
+Sound inter-group relations 
+■ considering impact of possible decisions 
+■ communicating teams’ decisions and actions 
+■ accepting external help, ideas and views 
+Source: IDS (2003), ‘Teamworking’, IDS Studies 763, December 
+Team membership 
+Teams differ even if they share similar characteristics.  Parry et al. (1998) identified  
+three different  approaches  that require different  behaviours  and competencies.  While 
+a production  team, for example,  requires individuals  with a good technical  
+background  and task orientation,  a strategy‐making team needs individuals  with a 
+long‐term vision, as well as good social and communication  skills. As was noted 
+earlier, Katzenbach  and Smith (1993b) emphasise  the importance  of ensuring  that a 
+team has the range of skills to perform a specific job, and that these fall into three 
+groups. First, the team needs the relevant technical  and functional  skills, and expert 
+knowledge.  Second, the team needs to be able to effectively  solve problems  and reach 
+a consensual  decision,  so it requires skills to identify the nature of a problem,  evaluate 
+options and possible solutions,  and decide the most effective course of action. Third, 
+the team must possess the range of skills so members  can communicate  effectively  
+with one another. The greater the level of autonomy  afforded  to the team, the greater 
+the range of skills it will need to possess. As well as the general skills that individuals  
+working  in teams will need to possess, such as good communication  and an ability to 
+share knowledge,  those working  in self‐managed  teams, for example,  will also need to 
+2006 © Institute for Employment Studies  
+16be equipped  with skills to take on the responsibilities  of a supervisor,  such as 
+problem‐solving, people management  and target setting, and learn how to take 
+responsibility  for their own performance  and how to access additional  training (IDS, 
+2003).  
+Examples 
+Neathey and Suff (1997) report on self-managed te amworking at the not-for- profit private health 
+insurer Western Provident Associat ion (WPA). They found that all self-managed teams at WPA are 
+multiskilled, meaning that ever y team member can take a customer through every stage of a 
+process, whether it is opening a policy, making a claim or simply switching payment to direct 
+debit. Teams play a central role in the selectio n of team members, with the selection panel for 
+new recruits consisting of both the team leader and a team member. ‘If a team leader or team 
+member believes that someone won’t fit into their group, there is no point in hiring them,’ said a 
+company spokesperson. Neathey and Suff say the ne ed for team involvement was reinforced when 
+WPA recruited 14 new employees without involving the teams. Although the new recruits seemed 
+to possess the right outlook to become a successful  team member, it was clear when they started 
+working that this was not the case.  
+IDS (2001) examined teamworking at IT soluti ons and consultancy Logica. It reports that 
+responsibility for putting togeth er a project team rests with the project manager, who creates a 
+resource plan outlining the particular technical ab ilities and specialist sector expertise required. 
+Permanent  teams tend to be composed  of individuals  who would normally  work 
+together to complete  a process, such as an assembly  team, or a group of individuals  
+performing  the same role, such as in a call centre. Members  may possess 
+complementary  skills so the team can carry out all its tasks, or possess the same skills 
+set and perform the same tasks. Temporary  teams are made up of individuals  chosen 
+for their expertise  and experience.  The process may be either informal,  with 
+volunteers  asked to participate  in a problem‐solving team, for example,  or formal, 
+with members  selected via an established  personality  assessment  tool, such as the 
+Myers‐Briggs Type Indicator  (IDS, 2003). Selecting  team members  on the basis of 
+Belbin’s team roles is an alternative  (see page 8). According  to this approach,  the 
+makeup of the ‘ideal’ team requires a mix of the different  ‘types’, with the 
+combination  largely dependent  on the sort of work the team is engaged in.  
+Hayes (1997) says that while different  roles may be crucial to a team’s overall success, 
+tying the role to the individual  is contentious,  especially  if circumstances  change. ‘The 
+problem is that a very different  situation  may bring an entirely different  facet of 
+personality  to the fore. People act in different  ways in different  situations.  One person 
+may take the role of ‘shaper’ with respect to one type of task, while adopting  an 
+evaluative  role in another, and a ‘plant’ role in a third. It depends  on expertise  and 
+knowledge,  as well as personality  inclinations,’  says Hayes.  
+Where teams consist of members  from different  functions  or from different  levels 
+within the organisation,  there needs to be a way of addressing  any differences  in 
+status. This has been a problem with the introduction  of multidisciplinary  teams in 
+Pulling Together: Making the Most out of Teams  
+17the healthcare  sector (NHS Modernisation  Agency, 2003). According  to Øvretveit  
+(1997), there has been a ‘tendency  to avoid recognising  real and important  seniority  
+and status differences  between team members’,  possibly through fear of damaging  or 
+destroying  the ‘fragile consensus’  that holds the team together.  Nonetheless,  team 
+members  interviewed  by the NHS Modernisation  Agency (2003) expressed  a desire 
+for inclusion  and equality within improvement  teams, irrespective  of status.  
+A common goal 
+A team needs to be clear about what it is doing (Locke et al., 1982). This is the first 
+phase of Tuckman’s  (1965) four stages of team development  – forming,  storming,  
+norming  and performing.  ‘Forming’  is where team members  work out what they are 
+supposed  to be doing. Larson and LaFasto (1989) stress the importance  of a clear and 
+elevating  goal in the performance  of effective teams. They define a clear goal as ‘a 
+specific performance  objective,  phrased in such concrete language  that it is possible to 
+tell, unequivocally,  whether or not that performance  objective  has been attained’,  and 
+elevating  as ‘personally  and collectively’  challenging.   
+Establishing  a clear vision or common  goal for the team will help keep team members  
+focused. This approach  involves dividing  the overall objective  into short‐ and long‐
+term goals with set deadlines  that enable to team to monitor progress.  According  to 
+Locke et al. (1982), goals should be specific, not vague – for example,  ‘reduce customer  
+complaints  by three per cent within six months’ rather than ‘try to reduce customer  
+complaints’.  They should also be challenging,  but reachable.  If goals are unreachable  
+there will be a sense of disappointment  rather than achievement  or pride in 
+attainment,  and the process becomes  demotivating.  
+Katzenbach  and Smith (1993a) adopt slightly different  language,  referring  to the need 
+for a team to have a common  commitment,  which they believe requires a purpose in 
+which all team members  can believe, and to which they are mutually  accountable.  
+Establishing  a common  purpose,  like identifying  a common  goal, is also the beginning  
+of the process of identifying  a team’s performance  objectives.  The authors say that the 
+best teams translate  their common  purpose into specific performance  goals, such as 
+reducing  the rejection  rate from suppliers  by 50 per cent or getting a new product to 
+market in less than half the normal time. ‘Transforming  broad directives  into specific 
+and measurable  performance  goals is the surest first step for a team trying to shape a 
+purpose meaningful  to its members,’  says Katzenbach  and Smith. Members  of teams 
+that fail to translate  their common  purpose into specific and measurable  performance  
+goals will become ‘confused,  pull apart and revert to mediocre  performance,’  they 
+claim. 
+Although  management  is responsible  for clarifying  the performance  challenge,  
+Katzenbach  and Smith believe managers  should allow teams the space to develop 
+their own ‘spin on that purpose,  set of specific goals, timing and approach.’  
+Hardingham  and Royal (1994) say the objective ‐setting process establishes  exactly 
+what the overall team is trying to achieve, and how its success will be measured.  It 
+2006 © Institute for Employment Studies  
+18also clarifies each team member’s  objectives  within that, and the inter‐relationships  
+between objectives.  In addition,  they claim that objective  setting provides  the 
+opportunity  for team members  to contribute  to the thinking  behind each other’s 
+objectives,  and become committed  as a team to each individual’s  achievement.   
+Developing a ‘sense of purpose’ 
+Daniel Kain from the University of Arizona says th at one way to help a team establish or articulate 
+a purpose is to ask a team to write an ‘advert isement’ for a new team member. The purpose of 
+the activity is to articulate what  the team sees as its purpose and chief values, not to reject any 
+existing members. The requirements of the ad are as follows: 
+■ It must indicate the name of the team. (If there isn't a name, the team members articulate 
+some name that fits their work.) 
+■ It must express the purpose of the team. 
+■ It must articulate the desire d qualities of team members. 
+In this activity, team members accomplish a good deal, says Kain. First, th ey begin to think about 
+naming their team, a technique of developing team  identity that has prov en successful in the 
+business world. Second, the team has to articu late a purpose, and since advertising values 
+brevity, the team focuses on its main purpose.  Discussing what to write for its purpose and 
+putting this into words helps th e team tackle what otherwise might seem too abstract for some 
+people. Finally, by identifying th e qualities the team would look for in new members, each team 
+member has the opportunity to see what his or her colleagues value in the team context. 
+Source: Kain D (1998), ‘We’re a team! What do we do now?’, presentation to the National Middle 
+School Association annual conference, Denver, November 
+Group norms 
+Effective  teams tend to develop and enforce ‘norms’ or informal  rules that promote  
+the efficient and effective operation  of the team, and to which all team members  are 
+expected  to conform.  ‘Teams develop their own values, norms and rules, and can 
+become a more powerful  source of control than managerial/bureaucratic  conventions,’  
+says Holbeche  (2005). This occurs in the second phase of team development  model 
+developed  by Tuckman  (1965), which he calls ‘norming’  and is the stage at which 
+teams determine  appropriate  ways forward in their work and exert pressure  on 
+members  to conform.  West (1996) says that this pressure  to conform is beneficial  in 
+ensuring  agreed ways of working  are followed,  helping to build cohesion  and trust. 
+However,  he notes research that shows where teams have very clear objectives  and 
+ideals, plus high levels of participation  and cohesion,  members’  commitment  to 
+consensus  may override their ability to make good decisions.  
+Neathey and Suff (1997) report that nearly all the organisations  they studied found 
+peer pressure  had an important  and positive influence  on group performance  and the 
+behaviours  of team members.  One example of the impact of peer group pressure  on 
+Pulling Together: Making the Most out of Teams  
+19individual  team members  is from the Trico plant in South Wales. Neathey  and Suff 
+found that team members  were initially ‘protective’  of colleagues  who were absent, 
+not wanting to confront them on their return and make them account for their non‐
+attendance.  This quickly changed,  however.  The teams soon realised that they are 
+responsible  for their own performance  and that non‐attendance  would severely 
+hamper their ability to meet their targets. As a result, teams established  their own 
+norms with regard to absence, and absent members  are challenged  about their non‐
+attendance  when they return to work. Peer pressure  and pride in the job were also the 
+most powerful  motivating  forces at Aston Martin Lagonda,  the manufacturer  of hand‐
+built bespoke cars. At Inland Revenue  (now HM Revenue  and Customs),  employees  
+participating  in a pilot self‐managed  teamworking  initiative  reported  that peer group 
+pressure  made them work harder. One team member explained:  ‘It used to be that if I 
+was not going to meet an objective  I’d think, “Oh, what the heck, there’s not much I 
+can do about it” but now I have the additional  pressure  that if something  does not 
+happen I will be letting the team down’. 
+Airbus, Filton Manufacturing – team behaviours  
+As a team we will:  
+■ act as a team lead by example in our behaviours  
+■ apply consistent standards across the business th rough adherence to processes and procedures  
+■ apply the same high standards to ours elves as we expect from others  
+■ encourage positive discussion and feedback within and outside the team  
+■ listen to the opinions of others  
+■ treat everyone with respect  
+■ be open and honest in discussion  
+■ give a united and consistent message across all communications  
+■ demonstrate customer satisfac tion is our first priority. 
+Source: Milsome S (2003), ‘Creating high-performan ce workplaces’, Managing Best Practice 112, 
+November 
+Expected behaviours 
+Competency  frameworks  can be useful in clarifying  roles by providing  people with an 
+understanding  of what behaviours  are appropriate  and expected  of them. The CIPD 
+(2005a) reports that competencies  involved  in team‐based working  are often part of 
+the skills matrix, along with technical  skills. For example,  at the East Kilbride plant of 
+the Rolls‐Royce Aero Repair and Overhaul  Business  the current capabilities  of staff 
+are mapped on the basis of essential  engineering  skills and softer skills. The matrix for 
+any team member is transparent  to all the team. IDS (2001) found that Leyland Trucks 
+2006 © Institute for Employment Studies  
+20(now a subsidiary  of US company  PACCAR)  includes teamworking  as one of the 12 
+personal  abilities that employees  should work towards achieving.  Teamworking  is 
+defined as the competency  to participate  actively and constructively  in team 
+membership.  Demonstrations  of this competence  might include the following  positive 
+examples:  
+■ participates  willingly  and actively in team meetings/activities  
+■ generates  ideas and responds  to others positively  
+■ shows respect for colleagues  
+■ supports  team development  by passing on skills and coaching  
+■ shows trust in others; is dependable.  
+People also want to know how they will be judged, which requires clarification  of 
+levels of performance  against such criteria. Both the team and its individual  members  
+will want regular feedback  on how they are doing. 
+Role clarity 
+Team members  need to be clear about their roles and what they expect of each other. 
+Understanding  what the team and individual  members  need to do, and why, is 
+important  if the team is going to be able understand  how best it can add value. A lack 
+of clarity is one of the main sources of employee  dissatisfaction.  Holbeche  (1998) notes 
+research that discovered  a close relationship  between a lack of clarity and people 
+contemplating  leaving the organisation,  loss of motivation  and frustration.  Each team 
+member also needs to understand  the boundaries  of his/her role. When people do not 
+know the limits of their decision‐making authority  they become hesitant and less 
+efficient.  Role ambiguity  can also give rise to conflict if there is potential  overlap in 
+responsibilities  between team members.  
+As long ago as 1974, Irwin et al. summarised  the main potential  problems  with roles: 
+■ What do team members  expect of each other? 
+■ Have these expectations  been shared? Do they match? 
+■ Do individual  objectives  fit with the team’s overall objectives?  
+■ Are there areas of overlap or duplication  between team roles that could produce 
+conflict? 
+Autonomy 
+Conventional  management  centres on control. Managers  and supervisors  are 
+concerned  with ‘commanding’  their subordinates  – directing  their efforts so they 
+accomplish  their tasks on time and to the required  standard.  Yet, devolving  control – 
+Pulling Together: Making the Most out of Teams  
+21of planning  and organisation  of work, for example – to teams is associated  with 
+improved  productivity  and greater job satisfaction.  Cordery et al. (1991) studied levels 
+of job satisfaction,  organisational  commitment  and ‘trust’ in management,  as well as 
+absenteeism  and labour turnover  in autonomous  work groups, compared  with 
+employees  in conventionally  designed  jobs, and found the former had a more 
+favourable  attitude to work. 
+Holbeche  (1998) believes the commonest  teamworking  problem is managers  retaining  
+a ‘command  and control’ management  style, which she says ‘tends to undercut  any 
+attempt by people reporting  to them to make their own decisions’.  Teamworking  
+should reduce the need for such rigid control, and the more autonomy  a team has, the 
+more managerial  functions  it takes on. Neathey and Suff (1997) report that self‐
+directed teams are typically  responsible  for scheduling,  job rotation,  team leader 
+selection  and problem solving, among others, and, in some cases, for team selection,  
+discipline  and payment.  
+Under such circumstances,  the role of managers  changes considerably.  Rather than 
+controllers  and commanders,  they become supporters,  coaches and facilitators.  To 
+assist the self‐directed teams at Nortel Optoelectronics,  a 12‐strong resource  support 
+team was established,  consisting  of former supervisors  and schedulers  (Neathey  and 
+Suff, 1997). Their role, among others, was to: 
+■ facilitate  the transition  to self‐directed teams 
+■ administer  team reviews 
+■ counsel and guide teams on any team‐related issues 
+■ educate and train team leaders (called ‘prime roles’) 
+■ provide recruitment  process support. 
+Shackleton  (1995) identified  the following  six aspects of a manager’s  role when teams 
+are empowered:  
+1. Respect and belief – team managers  need to believe in the potential  of the team, 
+and be able to identify and build on people’s strengths  as well as their weaknesses.  
+2. Confidence  – team managers  need to be confident  that empowerment  does not 
+threaten their position,  but to use it to develop a new role, encouraging  and 
+helping the team. 
+3. Training  – team managers  need to develop the potential  of their teams, 
+encouraging  them to identify their own training needs, while, at the same time, 
+encouraging  them to apply their existing skills. 
+4. Boundaries  – team managers  need to set clear team boundaries,  so everyone  (both 
+staff and managers)  is clear about what the team is responsible  for and what 
+remains under the control of the manager.  
+2006 © Institute for Employment Studies  
+225. Information  – empowering  teams almost always means they will need more 
+information,  so, although  the team is responsible  for specifying  what it needs, team 
+managers  need to facilitate  the transfer of this information  and ensure the team is 
+provided  with what it needs. 
+6. Rate of progress  – team managers  need to work closely with the team (or its 
+leader) to ensure it has practical  working  objectives  as well as provide feedback  on 
+progress.   
+Manz and Sims (1996) believe that the team leader role evolves as the team matures.  
+So, for example,  at start up the team leader is responsible  for exercising  authority  and 
+applying  his/her expertise  to problem solving, and co‐ordinating  the group’s 
+activities.  When the team has reached maturity,  however,  responsibilities  are shared 
+across the group and the team leader assumes the role of team champion,  counsellor  
+and coach, and acts as boundary  leader. 
+DARA – the Defence Aviation  Repair Agency – has introduced  self‐directed teams, 
+which it defines as: ‘An empowered  group of individuals  working  to a common  goal 
+using the resources  made available  to the group to achieve agreed outputs’ (IDS, 
+2003). It uses a tool for measuring  the level of empowerment  of such teams called the 
+‘organisational  culture profile’ (OCP). IDS (2003) reports that OCP is a matrix 
+comprising  15 key indicators  – including  communication,  environment  and 
+individual’s  role – against which teams’ degree of empowerment  is measured  along 
+with five key stages of organisational  development  (from traditional  to mature self‐
+directed).  A descriptive  statement  for each development  level, which can be used to 
+assess team performance,  accompanies  each indicator.  For example,  an ‘individual’s  
+role’ within a team at the traditional  level of empowerment  is described  as: ‘Just do 
+the job’; at the intermediate  ‘involved’  level it is: ‘Involved  in how the job should be 
+structured  and what tasks are needed to make the role effective and efficient’;  and at 
+the ‘mature self‐directed’  level it is: ‘Understands  customer  requirements  and changes 
+the role to meet those requirements’.  
+Leadership 
+Leadership  is one of the key ingredients  identified  by Larson and LaFasto (1989) for 
+effective team performance.  Similarly,  the report on teamworking  from the NHS 
+Modernisation  Agency (2003) identified  leadership  within teams as one of the key 
+factors in the successful  adoption  and sustainability  of new practices.  It says that 
+effective team leaders possess a number of qualities  and skills, including  enthusiasm,  
+insight, knowledge  and commitment.  Armstrong  (1999) believes that competencies  
+can be developed  specifically  for team leaders, and to achieve good teamwork,  leaders 
+should: 
+■ establish  urgency and direction  
+■ as far as possible select members  who have the required  technical  and 
+teamworking  skills 
+Pulling Together: Making the Most out of Teams  
+23■ pay particular  attention  to first meetings  and actions 
+■ agree team objectives  and standards  within the team 
+■ assess people’s performance  not only on the results they achieve but on their 
+capacity to work well in a team 
+■ encourage  team members  to plan and their own work, monitor control information  
+and take action without reference  to their team leader except in special 
+circumstances  
+■ stimulate  team members  to come up with joint suggestions  on how the 
+performance  of the team could be improved  or working  methods  changed for the 
+better; and 
+■ hold special ‘off‐the‐job’ meetings  regularly  to discuss work‐related issues, review 
+progress  and explore new ideas. 
+Importantly,  team leaders need to be able to resolve conflict, though this is often 
+difficult as conflict within teams has both a positive and a negative  role. ‘As a team 
+leader, one must realise the paradox that surrounds  conflict. The team needs to 
+embrace conflict as a means of generating  and evaluating  ideas. While at the same 
+time, it must shy away from it to prevent anger, frustration  or alienation.  The biggest 
+challenge  for the team leader is figuring out how to balance these two forces’, 
+comments  Brockman  (1996).  
+As was noted earlier, the role of team leader will vary depending  on the degree of 
+autonomy  given to teams. Some companies  place great emphasis  on the role of 
+working  team leader, who generally  has responsibility  for decision‐making in areas 
+such as work allocation,  team selection  and even team budgets.  Acas (2005) reports 
+that effective team leaders are distinguished  by their ability to ‘lead from the front’ 
+and in training,  coaching  and counselling  their team members  to achieve high 
+performance.  They are usually also able to carry out most of the team’s tasks 
+themselves,  and be able to co‐ordinate and evaluate ideas for improvement.  
+The following  example,  from BP Chemicals,  illustrates  the various activities  that team 
+leaders tend to undertake.  
+Manufacturing team leader role, BP Chemicals 
+Operations 
+Emergency response 
+■ overall local co-ordination of team  
+■ crisis management 
+Planning and co-ordinating  
+2006 © Institute for Employment Studies  
+24■ contribute to daily planning via attendance at daily co-ordination meeting and input to 
+medium-term plans. Allocate work across the team 
+Team briefing  
+■ brief team on a regular basis (information note  etc.), collect feedback and lead workgroups  
+People 
+Training and assessment  
+■ help identify and define team  development/training needs 
+■ responsible for coaching/developing team members  
+Appraisal  
+■ facilitate team appraisal process  
+Teamwork  
+■ ability to facilitate resolution of conflict with in the team Initiator of disciplinary system, if 
+required 
+Cover arrangements  
+■ overall co-ordination across all  
+Information  
+Handover  
+■ team handover of area status  
+■ key point of contact for team  
+Night order book  
+■ write appropriate sections of the NOB with a ssistance of Manufacturing Engineering Team  
+Costs  
+IPMs/KPIs/Optimisation  
+■ monitor, report and control appropriate indicators/measurements 
+Source: Industrial Society (1998), ‘Teamwor king’, Managing Best Practice 47, May 
+Team leaders tend to be appointed  by management,  though where the team is to some 
+extent self‐managing  the group may elect the leader and the role may also be rotated. 
+Some organisations  have dropped  the ‘leader’ title, preferring  one that does not 
+automatically  suggest the person in the role is in charge. IDS (2003) provides  the 
+example of the ‘team co‐ordinator’  at BMW Group, Oxford. Management  selects 
+people for the role through group assessment  centres, which includes making 
+presentations,  and taking part in role plays and group discussions.  Team co‐
+Pulling Together: Making the Most out of Teams  
+25ordinators  receive a week’s training to equip them for the role in areas such as 
+presentation  skills, team dynamics  and teambuilding,  conflict resolution,  
+assertiveness,  problem‐solving techniques  and goal setting. Half of their time is spent 
+facilitating  the teams in their self‐management  activities,  including  problem‐solving.  
+Neathey and Suff (1997) report that Nortel Optoelectronics  introduced  ‘prime roles’, 
+which involves an individual  team member taking responsibility  for specific activities  
+and functions,  as a way of establishing  an element of control in its self‐managed  
+teams. A process team, for example,  has five prime roles: health and safety, human 
+resources,  quality and engineering,  scheduling  and materials,  and training.  The prime 
+role recommendations  adopted by Nortel were: 
+■ a role not a job 
+■ not a supervisory  substitute  
+■ specify minimum  period – one year 
+■ manager  can suggest candidate  but cannot enforce 
+■ team agreed 
+■ prime role is responsible  for training replacement  
+■ always available,  once left the role 
+■ prime role can be part of the development  plan 
+■ prime to be available  at shift handover.  
+Communication 
+Hayes (1997) says that communication  is probably  the single most important  factor for 
+establishing  cohesion  among team members.  Research  among high‐performing  teams 
+by Ashridge  Business  School found that communication  typically  takes up between 50 
+per cent and 70 per cent of team leaders’ time (Jones, 2006). Team members  will need 
+to develop their own interactive  and communication  skills, such as the ability to give 
+and receive feedback,  and handle conflict. As one commentator  puts it, ‘team 
+members  need to know how to talk with, explain to, agree with, disagree with, decide, 
+listen to, and convince  more people than they ever had before’ (quoted in Neathey 
+and Suff, 1997).  
+The quality of the communication  is one of the litmus tests for team health, according  
+to Hardingham  and Royal (1994). They say communication  needs to be genuinely  
+interactive,  with team members  building  on each other’s comments  and suggestions,  
+adding fresh perspective  to move the discussion  forward.  Every team member needs 
+to have access to the same information,  irrespective  of any difference  in status.  
+Regular team briefings  are commonly  used to disseminate  information  and gather 
+feedback.  IDS (2003) reports that every fortnight  at BMW Group, Oxford there is a 45‐
+2006 © Institute for Employment Studies  
+26minute session built into the production  schedule  for a team talk. At these gatherings,  
+team members  have the opportunity  to raise and discuss any issue of relevance  to the 
+team. Initially these meetings  were taken up by very specific local issues, such the 
+provision  of a drinking  fountain,  but over time, as these have been resolved,  the focus 
+has shifted to continuous  improvement  activities.  Regular team meetings  are 
+particularly  vital where team members  are dispersed.  British Gas brings its service 
+teams together once a month for a team brief (IDS, 2003). Usually held at a convenient  
+venue, the meetings  typically  last for two hours and provide an opportunity  for the 
+team manager  to discuss general levels of performance,  and allow engineers  to raise 
+issues and ask questions.   
+Organisational support 
+Creating  the right environment  in which teamworking  can thrive is crucial, and 
+includes establishing  a culture of co‐operation  and sharing as well as developing  
+polices and procedures  that support teams. Hayes (1997) notes that: ‘Research  into the 
+activities  and the characteristics  of supportive  organisations  all points to the idea that 
+the organisational  culture within which the team is operating  is a vital factor in how 
+well the team is able to function.’  Managers  and senior managers  have a crucial role to 
+play in developing  the supportive  culture that underpins  effective teamworking.  
+Holbeche  (2005) says the involvement  and commitment  of senior managers  is 
+essential,  as teamworking  leads to different  methods  of co‐ordinating  work through 
+new organisational  routines.  
+One important  aspect of the teamworking  culture that requires careful management  is 
+the tendency  for teams to become insular and less co‐operative  with others in the 
+organisation.  Teams tend to have, or at least develop,  their own distinctive  identify – 
+something  managers  often encourage  – but this can lead to tension and unhealthy  
+competition  with other work groups. Managers  must ensure teams retain the ability 
+to co‐operate, while making sure they compete only for achievement,  not resources  
+(Hayes, 1997). The culture should be one in which the various work groups share a 
+common  perception,  such as the overall success of the business,  with each team 
+contributing  their bit to this overarching  goal. In such circumstances,  competition  can 
+be healthy, stimulating  the development  of an achievement ‐oriented culture in which 
+every team plays its part. 
+Hackman  (1990) identified  six types of support that organisations  need to provide for 
+their teams that will ensure they operate effectively  and efficiently.  The six – which 
+reinforce  some of the key characteristics  already mentioned  – are: 
+1. Clear targets – teams need a clearly defined task. 
+2. Adequate  resources  – teams must have what they need to function properly,  and 
+these resources  are likely to alter throughout  the group’s life. 
+Pulling Together: Making the Most out of Teams  
+273. Reliable  information  – access to accurate information  is vital, helping teams make 
+realistic decisions  and to solve problems.  Information  also needs to be regularly  
+updated.  
+4. Training  and education  – all teams, however  well they are functioning,  will need 
+to develop their range of skills and knowledge,  so training opportunities  should 
+always be available.  
+5. Regular feedback  – teams need regular and reliable feedback  on performance  
+(both the team’s and the organisation’s)  and organisational  developments.  
+6. Technical  and process assistance  – teams will require a certain amount of technical  
+and process support to effectively  function.  This may include specific technical  
+knowledge  about a production  process, for example,  or help and support in getting 
+things done in the organisation.  
+Acas (2005) notes that teams may stagnate or encounter  problems  that they cannot 
+overcome  from their own resources,  and will look to management  for assistance.  This 
+may include clarifying  objectives,  providing  additional  resources,  training and team 
+building  exercises.  
+In fact, the WERS reports that in the 12 months prior to the survey, 34 per cent of 
+workplaces  had provided  core employees  with training in teamworking,  including  in 
+37 per cent of workplaces  where staff already work in formally  designated  teams and 
+27 per cent of workplaces  with no formal teamworking  arrangements.   
+Milsome  (2004) reports that the policies and infrastructure  that support the Working  
+in Groups (WinGs) system and the focus on continuous  improvement  at BMW Group, 
+Oxford, includes:  
+■ support from a senior person to get improvement  ideas implemented  
+■ recruitment  practices  that seek out people with the ‘right attitude’ 
+■ trackside  improvement  workshops  and multifunctional  continuous  improvement  
+workshops  to encourage  creativity  and innovation  in teams 
+■ a recognition  scheme for teams’ continuous  improvement  activities.  
+Measuring team performance 
+The traditional  way of examining  team effectiveness  is the inputs, processes  and 
+outputs model. The systems theory approach  has inputs on the left, processes  in the 
+centre and outputs on the right: 
+■ Inputs – these are the things that are available  to the team as it performs  its tasks, 
+such as skills of teams members  and organisational  environment.  
+■ Processes  – process criteria by which managers  can examine the ways in which 
+teams work. For a team to operate effectively,  it must: 
+2006 © Institute for Employment Studies  
+28□ work hard enough 
+□ have sufficient  knowledge  and skills 
+□ have a strategy to accomplish  its work or ways to approach  its tasks 
+□ have a constructive  and positive group dynamic  among its members.  
+■ Outputs  – these are the results of a team’s work. A team is effective if: 
+□ its product or service meets standards  demanded  by its customers  (quality, 
+timeliness  etc.) 
+□ if the group process in performing  its tasks enhances  members’  ability to work 
+together as a team in the future 
+□ if team members  derive satisfaction  from working together as a group.  
+Others would add measurement  of ‘outcomes’  to this list, especially  where outputs 
+are internally  focused. Examining  outcomes  looks at the impact more from a customer  
+perspective.  IES experience  in the NHS was that staff found it hard to measure  team 
+performance  in terms of patient outcomes,  being more comfortable  with staff inputs 
+(Reilly et al., 2005). 
+The above model emphasises  the way in which teams are influenced  by both 
+individual ‐ and organisational ‐level inputs, as well as the relationship  between the 
+various inputs and processes  and team performance.  Healy et al. (2004) used the 
+model to look at the performance  of surgical teams. It found that surgical teams have 
+specific tasks and objectives,  composition,  structure,  conditions  of work, human and 
+technological  resources  and competencies  that can be collectively  termed as inputs. At 
+the same time, its processes  involve a set of complex  interactions  among team 
+members,  their technology,  and their patients.  There are also social, cultural, political 
+and ergonomic  factors that affect teams. In short, Healy et al. say that a ‘hierarchy  of 
+interrelated  factors affect team performance,  some intrinsic and some extrinsic’.   
+Borrill et al. (2000) also applied the inputs, processes  and outputs approach  to 
+healthcare  (see Table 2.1). 
+Table 4: Performance measurement in healthcare 
+Inputs Î Group processes Î Outputs 
+Domain 
+Healthcare environment Organisational context Team task Team composition Leadership 
+Clarity of objectives Participation Task orientation Support for innovation Reflexivity 
+Decision making 
+Communication/integration Effectiveness – self and externally rated 
+Clinical outcomes/quality of healthcare Innovation – self and externally rated Cost effectiveness Team member mental health Team member turnover 
+Pulling Together: Making the Most out of Teams  
+29Source: Borrill C, West M, Shapiro D, Rees A ( 2000), ‘Teamworking and effectiveness in healthcare’, 
+British Journal of Heal th Care Management,  6 (8) 
+Questionnaires  and surveys, observations,  interviews  and archival data have all been 
+used to measure  teamwork  (Healey et al., 2004). As the authors note: ‘Observational  
+measures  of tasks and behaviours  are a common  form of team assessment,  although  
+they cannot reveal all relevant facets of team performance.’  They found that though 
+the completion  of a team’s tasks was necessary  for effective performance,  it did not 
+completely  capture the quality and efficacy of the team’s work, so other measures  are 
+needed to capture behaviours,  such as communication,  co‐operation  and leadership.  
+Hayes (1997) says there are several different  ways of evaluating  team performance.  
+One way is to focus on measuring  characteristics,  seeing how team members  respond 
+to particular  psychometric  instruments,  such as questionnaires  and inventories.  
+Another is to apply a team performance  curve to see how well a team is doing. 
+Another still assesses a team’s decision‐making to ensure it is not being influenced  by 
+damaging  or negative  factors.  
+According  to the CIPD (2005b), there are two types of performance  measure:  
+1. output / outcome  measures,  including:  
+a. performance  
+b. achievement  of goals and standards  
+c. the integration  of inter‐team efforts 
+2. input / process measures,  including:  
+a. the levels of knowledge  and skills 
+b. the quality of interactions  and collective  effort 
+c. involvement  in decision‐making 
+d. planning  and goal‐setting 
+e. self‐directed measurement  and control of performance  
+f. the resolution  of conflict within the team 
+g. the flexibility  of the team to adapt to unforeseen  problems.  
+A review of the literature  by MacBryde  (2001) revealed  the following  list of 
+characteristics  of team performance  measures:  
+■ derive from the stakeholders  represented  within the team membership  
+■ clearly defined / explicit purpose 
+■ relevant and easy to maintain  
+■ simple to understand  and use 
+2006 © Institute for Employment Studies  
+30■ provide fast, accurate feedback  
+■ stimulate  continuous  improvement  
+■ clearly defined data collection  and methods  of calculating  the level of performance  
+■ clearly defined frequency  of measurement  
+■ applied at team and individual  level 
+■ related to both team outcome  and process 
+■ capture the dynamic  nature of teamwork.  
+Meeting these criteria may be a challenge,  especially  with the more complex 
+outcomes.  Difficulty  in specification  and measurement  leads some organisations  to 
+concentrate  on the simpler process measures.  It is easier to measure  the team’s 
+production  of widgets than to establish  customer  satisfaction  with the product.  
+The author also sets out the various stage of the process for designing  an effective 
+team performance  measurement  system (TPMS). Following  a period of educating  
+team members  about performance  management  and measurement,  there are nine 
+stages: 
+1. identify company  strategy and organisational  performance  measures  
+2. identify team stakeholders’  requirements  
+3. define team strategy and goals 
+4. develop top level performance  measures  
+5. identify key drivers of team performance  
+6. develop performance  measures  for key drivers 
+7. define measurement  strategy 
+8. refine and sign off the team performance  measures  
+9. define TPMS review mechanism.  
+Mendibil  et al. (2001) looked at team accountability  to develop the following  areas of 
+measurement:  
+■ Business  process measures  – those used to monitor the performance  of the 
+business  process that the team is responsible  for 
+■ Team measures  – those used to monitor how well teamworking  is operating,  
+including  measures  to address issues relating to individual  and team competencies,  
+behaviour,  social interaction  and general health of the team 
+Pulling Together: Making the Most out of Teams  
+31■ Organisational  support measures  – those used to monitor the team environment  
+to ensure the team and the process perform as expected.   
+MacBryde (2001) reports on how the natural mineral water company Highland Spring applied the 
+business process measures, team measures and orga nisational support measures. The following is 
+a list of the measures being used by the manufa cturing team to its performance and that of the 
+process being used:  
+■ overall equipment effectiveness (process measure)  
+■ changeover time (process measure)  
+■ current versus real manning levels (process measure)  
+■ skills available versus. skills required (team measure)  
+■ planned versus delivered training (organisational support measure)  
+■ planned versus delivered staff briefings (team measure)  
+■ employee questionnaire (team/organisational support measure). 
+According  to Mendibil  (2003), the drivers of team performance  can be classified  under 
+task characteristics  (such as, skill variety, task identity, task significance  and 
+interdependence);  team characteristics  (team type, relative size, heterogeneity,  
+roles/responsibilities,  goal clarity, and skills, knowledge  and attitudes);  teamwork  
+processes  (communication,  leadership,  back‐up, coordination,  decision‐making and 
+learning);  and organisational  context (stakeholders,  organisational  support, external 
+environment).  The author says the following  four main criteria can be applied to 
+determine  team performance:  
+■ Expectations  – the degree to which tasks/process  results satisfy team stakeholders  
+■ Efficiency  – the degree to which team processes,  such as communication,  co‐
+ordination,  leadership  and decision‐making, support the achievement  of process 
+results, team growth and member satisfaction  
+■ Learning  and growth – related both to the team and its individual  members,  
+including  ability to innovate,  range of transferable  skills, and application  of best 
+practice and process improvements.  It also relates to ‘future viability’  of the team, 
+so incorporates  behavioural  variables,  such as levels of participation,  commitment  
+and willingness  to continue  working  together 
+■ Team satisfaction  – the degree to which teamwork  contributes  to the growth and 
+personal  wellbeing  of team members.  
+Zigon (1994) developed the following seven- point plan to assess team performance: 
+1. review and revise organisational and business-unit measures 
+2006 © Institute for Employment Studies  
+32Do business-unit measures flow from, and support, corporate strategy? If on ly financial measures 
+are being used, ask why. Identify measures to eval uate both strategic success and market results. 
+2. Review and revise business operating system measures 
+Are there measures of customer satisfaction ? Flexibility or innovation? Productivity? 
+3. Map the business process 
+Identify the team’s customers and the products/s ervices the customers need. Identify all major 
+process steps (boxes) and handoffs (arrows) that le ad to the final product.  Change the process to 
+simplify it and increase value to the customer.  
+4. Identify team measurement points 
+Always measure the final product. Decide which process steps and handoffs are worth measuring. 
+Measures processes by waste and cycle time. Measure handoffs by delivery and quality.  
+5. Identify individual accomplishments that support the team’s processes 
+Build a role-result matrix, with team members do wn the left column, key process steps across the 
+top row, and accomplishments needed to suppo rt each process step inside each cell. 
+6. Develop team and individual performance measures 
+For each accomplishment, select th e general measures that are important (quantity, quality, cost 
+and/or timeliness). For each general measure, answ er the question: ‘How can (quantity, quality, 
+cost or timeliness) be measured? If an accomplish ment can be measured with numbers, record the 
+units to be counted (or tracked by percentage). If  performance only can be  described, list who 
+will judge the work and what factors they will consider. 
+7. Develop team and individual performance objectives 
+The goal is verifiability. If the measure is numer ic, ask: ‘For this measure, what number would 
+represent “meeting expectations?”’. Establish a range of performance above which special 
+recognition is warranted and below which a performance problem exists. If the measure is 
+descriptive, ask: ‘For each factor the judge will look at, what would this person see that means a 
+good job has been done?’. List the factors and what constitutes a good job for each factor. Ask: ‘If 
+this description equals “meeting expectations”,  what would “exceeding” look like?’. Write what 
+the judge would see happening if these expectations were exceeded. 
+Milsome  (2004) reports that team performance  at BMW Group’s Oxford plant is 
+measured  in eight areas, with teams assigned  one of three ratings – ‘started’,  ‘good’ 
+and ‘excellent’.  The eight areas and examples  of levels of performance  are: 
+■ Communication/team  talks – examples:  teams rated as ‘started’ under this 
+category  must have regularly  held team talks (90 minutes per month), while those 
+given an ‘excellent’  rating will be ‘doing more than the scheduled  team talks’. 
+■ Continuous  improvement  process – teams rated as ‘started’ must provide 
+evidence  that members  are coming up with ideas to improve the business,  while 
+Pulling Together: Making the Most out of Teams  
+33teams achieving  a ‘good’ rating will have met a target to implement  three ideas that 
+produces  £800 of savings per person. 
+■ Team attendance  – ‘started’ teams will have achieved  attendance  levels of 92 per 
+cent and up to 96 per cent over the previous  month, while attendance  of ‘excellent’  
+rated teams will be above 98 per cent over the previous  three months. 
+■ ‘Right first time’ – ‘started’ teams will be able to demonstrate  examples  of some 
+improvement  in this area, while ‘good’ teams can show problems  have been solved 
+with measurable  benefit. 
+■ Team self organisation  – ‘started’ teams will have regularly  performed  WinGs 
+Audits and displayed  results, while teams rated as ‘excellent’  will be able to 
+demonstrate  a strong team spirit among members,  who will be behaving  in a 
+mutually  supportive  manner. 
+■ Health and safety – ‘started’ teams will be aware of, and adhere to, health and 
+safety rules, while ‘good’ teams will have put an H&S prevention  process in place. 
+■ 5‘S (Sort, Standardise,  Simplify,  Sweep, Self‐Discipline)/ housekeeping  – ‘good’ 
+teams will have a 5’S plan in place, while an ‘excellent’  one will practice them to a 
+very high standard  across all shifts. 
+■ TPM (total preventative  maintenance)  – ‘started’ teams will have trained a 
+‘champion’  in TPM usage of tools, while an ‘excellent’  team will have exceeded  its 
+TPM targets. 
+Suff (1997) reported  that Ethicon, the Scottish‐based Johnson & Johnson subsidiary  
+that manufactures  surgical products,  measured  team performance  by: 
+■ Output – which relates to the quantity of goods produced  by the team 
+■ Quality – with greater emphasis  on quality assurance  and operators  auditing  their 
+own work 
+■ Lead time – the time it takes for the product to complete  the manufacturing  
+process. 
+He also found that Kent County Council monitored  team performance  by examining  
+the following  six criteria: 
+1. Accountabilities  – how far have the accountabilities  of the team been met? 
+2. Targets – how far have the team’s targets been met for the year? 
+3. Planning  – how well has the team developed  a clear plan, communicated  it to 
+others and measured  performance?  
+4. Energy and drive – how well has the team developed  new initiatives  and dealt 
+with change? 
+2006 © Institute for Employment Studies  
+345. Decision ‐making – how good has the team’s decision‐making ability been? 
+6. Teamworking  – how well has the team worked together?  
+Rewarding teams 
+While teamworking  has become increasingly  popular,  remuneration  systems 
+specifically  linked to it are much less common.  The latest CIPD (2006b) reward survey 
+reveals that 25 per cent of participating  organisations  operate a bonus or incentive  
+scheme that they define as team based, while just two per cent use gainsharing  an 
+(arrangement  that is often team based). Team pay, which was for several years a 
+distinct reward system in the IRS annual survey of pay trends, no longer has a 
+separate entry, with any team reward arrangements  now presumably  captured  by the 
+incentive  payments  or cash bonus categories  (IRS, 2005). And, despite the widespread  
+use of teamworking  in the UK, the CIPD (2006b) found that only 14 per cent of 
+organisations  use it as a factor in pay progression.  Indeed, in the absence of evidence  
+of any widespread  uptake in team pay, IRS (2001) ran an article entitled: ‘Whatever  
+happened  to team reward?’  
+Nonetheless,  financial  and non‐financial  rewards can play a significant  role in 
+reinforcing  teamworking  and co‐operative  behaviour,  and clarifying  team objectives  
+and goals (IDS, 2003). The CIPD (2005b) believes that while most team reward 
+systems emphasis  team pay rather than non‐financial  rewards,  employees  tend to 
+favour the latter, particularly  recognition  of the successful  completion  of a task. An 
+IES/Hay project in the NHS, however,  elicited mixed views on cash versus non‐
+financial  rewards,  depending  upon existing pay levels and earnings  opportunities  
+(Reilly et al., 2005). 
+But whether organisations’  financial  and non‐financial  rewards are linked directly to 
+team performance  or not, they still need to support a teamworking  culture. The 
+rationale  for team reward is to reinforce  behaviour  that leads to effective teamwork  
+(CIPD, 2005b).This  can be done by directly incentivising  teams to perform or by 
+encouraging  positive team behaviours  through either some individually  based pay 
+scheme (eg competency  based) or through a performance  management  system with a 
+competency  framework.  
+Systems that are designed  to motivate  individuals  will be at odds with what is 
+required  to support teamworking.  Acas (2005), for example,  says that organisations  
+moving to teamworking  should ask themselves  whether individual  incentive  
+payments  encourage  team members  to work with the intelligence,  flexibility,  co‐
+operation  and emphasis  on the product or service quality required.  
+Financial rewards 
+Team pay has a number of potential  benefits. It can encourage  co‐operative  work and 
+behaviour,  help clarify team goals and priorities,  encourage  flexibility  and multi‐
+Pulling Together: Making the Most out of Teams  
+35skilling, and collectively  improve  performance  and team process (CIPD, 2005b). 
+However,  there are serious practical  difficulties  associated  with introducing  and 
+managing  a scheme and a number of potential  disadvantages.  Armstrong  (2000) notes 
+that: ‘The case for team pay looks good in theory, but there are some formidable  
+disadvantages.  The criteria for success are exacting and it has not been proved that 
+team pay for white‐collar workers will inevitably  be effective’.  The potential  
+drawbacks  include: a difficulty  in assessing  the contribution  of individual  team 
+members;  individual  employees,  particularly  high performers,  may be demotivated;  
+reluctance  to move between teams, as individuals  will prefer to stay in the better 
+performing  teams; pressure  to conform to team norms may reduce innovation;  early 
+performance  gains tend to disappear  after two to three years. 
+The IES view expressed  by Reilly and Cumming  (Reilly, ed, 2003) is rather more 
+nuanced:  
+‘Trying to create a team culture through team‐based pay is fraught with danger. It is much 
+easier to reinforce a team culture with appropriate  rewards than to lead with pay. The team 
+structure has to be in place; the targets clear and self evident; the participants  sufficiently  
+skilled. Unfortunately,  there are no ‘off the shelf’ solutions to team‐working systems. Each 
+case is different’.  
+If obstacles  can be overcome  then team‐based pay can offer benefits in terms of cost 
+reduction  (compared  with individual  performance ‐related pay), skill enhancement  
+across a team, facilitation  of co‐operative  working  and empowerment,  and the 
+communication  and delivery of business  goals. 
+IRS (2001) says to work effectively,  team pay must meet a number of stringent  criteria: 
+teams must be clearly defined and identified,  and performance  measures  need to 
+genuinely  reflect team contribution,  for example.  IRS also suggests  that team pay 
+works best where it fits the organisational  culture, structure  and team‐based 
+operations.  
+The CIPD (2005b) claims that team pay works best if teams: 
+■ stand alone with agreed targets and standards  
+■ have autonomy  
+■ are composed  of people whose work is interdependent  
+■ are stable 
+■ are well‐established  and make good use of complementary  skills 
+■ are composed  of flexible, multi‐skilled team players who are capable of expressing  
+a different  point of view if it is for the good of the whole. 
+And, for team pay to work well: 
+■ everybody  must understand  and accept the targets 
+2006 © Institute for Employment Studies  
+36■ the reward must be clearly linked to effort and achievement  
+■ the reward must be worth striving for 
+■ performance  measures  must be fair, consistent  and acceptable  
+■ everybody  must be able to track performance  in relation to targets and standards  
+■ the team must influence  its performance  by changing  behaviour  or decisions  
+■ the incentive  formula must be easily understood  
+■ reward must closely follow accomplishment  
+■ the scheme must be appropriate  
+■ the scheme should be carefully  designed,  installed,  maintained  and adapted to 
+meet changing  circumstances.  
+Where team pay does exist, it typically  takes the form of a bonus payment,  awarded  
+in addition  to basic salary and tied to measures  of team performance  (IRS 2001). Table 
+5 illustrates  the types of monetary  team reward. 
+Table 5:  
+Type of team reward Definition 
+Team reward for work 
+teams Team-based financial rewards shared among team members in accordance 
+with published criteria. 
+Rewards for project or ad 
+hoc teams Lump sum bonuses paid for the achiev ement of predetermined targets for 
+competing the project to specificat ion, within budget and on time. 
+Bonus awards for executive 
+directors Bonuses paid to the senior manageme nt team typically linked to whole 
+business performance.  
+Group incentive schemes Bonuses paid (either equally or propor tionately) to manual workers within a 
+group or area, related to outp ut levels or time saved. 
+Gainsharing A formula-based company or factory- wide bonus plan where employees 
+share in the financial gains made by a company as a result of its improved 
+performance. 
+Company or plant-wide 
+bonus schemes Cash bonuses allocated by reference to plant or company performance in 
+terms of output or productivity. 
+Rewarding individuals for 
+effective teamworking Individual employees are rewarded on the basis of the assessments of their 
+competency as teamworkers. 
+Source: Armstrong M (2000), Rewarding teams , CIPD good practice guide 
+The CIPD (2005c) found that individual  bonuses and team‐based rewards were the 
+two most common  methods  of rewarding  staff working  in customer  services. IRS 
+(2000) found that team‐based remuneration  is a reasonably  common  in the call centre 
+industry.  It reported  that almost a third of the 79 call centres it monitored  had a team 
+reward mechanism  in place. Examples  reported  by IRS include: 
+■ SITEL Consulting  – employees  receive a bonus tied to a combination  of individual  
+and team performance  measures  relating to quantity,  attitude/customer  service and 
+product knowledge.  Payments  worth up to five per cent of gross salary are 
+Pulling Together: Making the Most out of Teams  
+37available,  with the bonus weighted  80 per cent to individual  and 20 per cent to 
+team performance.  
+■ Halifax Direct – bonuses are linked to a combination  of individual,  team and whole 
+centre performance.  The four key elements  of the bonus scheme include individual  
+sales targets, customer  service ‘hurdles’,  team sales and call centre performance.  
+The team component  is worth 2.5 per cent of individual  salary for on‐target 
+performance,  rising to five per cent for ‘exceeding’  targets. 
+Examples 
+Team bonuses at Vertex Data Science  
+Team bonuses are paid in addition to individual  performance-based salary increases at Vertex, 
+which is a subsidiary of North West Water and,  in 1998, employed more than 300 at two purpose-
+built call centres in Warrington. Individual employees are set performance and personal 
+development objectives, and are expected to acquire a set of role-related competencies. 
+Measurement of these factors affects individual  rewards. In addition, bonuses, linked to 
+achievement of personal, team or whole company targets, worth up to 7.5 per cent of salary for 
+CSRs are payable at regular intervals. For frontl ine agents, the bonus is structured as follows: 
+■ One-third (up to 2.5 per cent of gross pay) is li nked to personal or team objectives. Examples 
+include reducing the average call-handling time and increasing the ‘tele-economy’ 
+(benchmarked performance against other compet itor call centres) rating by percentage 
+targets. 
+■ One-third (2.5 per cent salary) is linked to team or whole-centre performance. Examples 
+include answering a given proportion of incoming calls with a target time, and ensuring 
+abandoned calls do not exceed a se t of percentage of inbound calls. 
+■ One third (2.5 per cent of salary) is tied to whole-company performance to ensure that, 
+irrespective of role, employees clearly see the link between their own and corporate 
+performance (IRS, 1999). 
+Store-team bonus at B&Q 
+The store-team bonus was introduced in February  2003. Under the scheme, which is designed to 
+incentivise employees to improve customer servic e, sales and reduce shrinkage (stock wastage 
+and theft) in their stores, employees receive a fi xed payment worth three per cent of salary every 
+six months if company profit targets are met. In addition, they are also eligible for a variable 
+payment of up to 6.75 per cent based on store and company performance, plus an additional £250 
+if customer satisfaction levels increase. Payments for staff take account of their store’s ranking, 
+based on local sales and shrinkage, in a league table of all stores. The league is divided into five 
+divisions, with the top 20 per cent of stores in the Premiership and the remaining ones in divisions 
+one to four. There is no payout for any league unless company profit exceeds a set target (Brown 
+and Wustemann, 2003).  
+2006 © Institute for Employment Studies  
+38Non-financial rewards 
+Non‐financial  rewards,  such as formal recognition  of top performing  teams, may, 
+especially  over the long term, be more powerful  motivators  than financial  rewards.  
+Non‐financial  rewards identify individual  employees  or teams for particular  praise or 
+acknowledgement.  The size, scope and formality  of non‐financial  recognition  schemes 
+vary enormously.  Schemes  range from those that are informal  and impromptu  to 
+more formal structured  schemes.  According  to Silverman  and Reilly (Reilly, ed, 2005), 
+non‐financial  recognition  may be concerned  with acknowledging  the efforts of 
+employees  by: 
+■ the manager  saying thank you 
+■ the manager  writing formally  to record thanks 
+■ a more senior manager  in the organisation  writing to the individual  or team 
+■ public appreciation  of the effort in a team meeting,  in an organisational  newsletter  
+or at a special dinner 
+■ a public gesture acknowledging  contribution  under difficult circumstances  
+■ declaring  the group team of the month or year. 
+Teamworking  itself contains several important  intrinsic motivators,  such as 
+autonomy,  involvement  and responsibility,  but recognition  is needed to enhance 
+intrinsic motivation.  Many organisations  operate some form of recognition  scheme. 
+For example:  
+■ BMW Group, Oxford, operates a WinGs (Working  in Groups) recognition  scheme 
+that rewards teams rather than individuals.  Milsome  (2004) reports that the most 
+popular rewards for teams that successfully  identify and implement  continuous  
+improvement  ideas are WinGs driving events, where team members  drive Minis in 
+challenging  situations,  such as slaloms, handbrake  turns and sprints. IDS (2003) 
+says top‐performing  teams in each area at the Oxford plant receive certificates  and 
+‘Top Team’ shirts in recognition  of their contribution.   
+■ IDS also reports that service teams at British Gas are eligible for participation  in the 
+parent company’s  (Centrica)  group‐wide ‘excellence  rewards’  scheme. According  
+to IDS, these are very prestigious  awards, recognised  at board level, designed  to 
+acknowledge  individuals  and teams nominated  by their colleagues  as having gone 
+beyond the call of duty in the course of their work.  
+Pulling Together: Making the Most out of Teams  
+39Conclusions 
+Teamworking  continues  to be a very popular way of organising  work in the UK. 
+Organisations  tend to benefit from improvements  in productivity,  quality, and 
+customer  satisfaction  levels and greater employee  commitment,  while team members  
+tend to enjoy greater job satisfaction  from the freedom,  responsibility  and flexibility  of 
+working  in groups. Despite these potential  benefits, and the widespread  use and 
+longevity  of teamworking  in many workplaces,  organisations  are still struggling  to 
+effectively  manage teams. Too many still operate systems and processes  that are not 
+compatible  with teamworking.  Research  has discovered,  for example,  that when it 
+comes to effectively  measuring  team performance,  determining  compensation,  
+providing  training and organising  facilities,  organisational  systems are tailored to 
+individuals  rather than to teams.  
+But there is much that organisations  can do to improve  teamworking.  Effective  teams 
+have a number of key characteristics,  including  a common  sense of purpose,  a clear 
+team goals, a clear understanding  of each member’s  role as well as the overall team 
+role, durable performance  standards,  effective means of communication  and robust 
+team performance  measures.  Successful  teams also have organisational  support and 
+access to resources.  Selecting  individuals  with the right mix of skills, experience  and 
+potential  at the start is crucial, as is the leadership  role. Equipping  team members  
+with the skills they will need to work co‐operatively,  including  the ability to 
+successfully  solve problems,  reach consensual  decisions  and to communicate  
+effectively  with one another. 
+Organisational  support systems are crucial to effective teamworking.  This includes 
+establishing  a culture of co‐operation  and sharing as well as developing  polices and 
+procedures  that support teams. The involvement  and commitment  of senior managers  
+is also essential.  Organisations  need to set teams clear targets, supply adequate  
+resources  and reliable information,  offer ongoing training opportunities,  give regular 
+feedback  on performance,  and, where necessary,  provide technical  and process 
+assistance.   
+There is a big question  mark over whether team pay is necessary  for effective 
+teamworking.  Although  it can encourage  co‐operative  work and behaviour,  and help 
+2006 © Institute for Employment Studies  
+40clarify team goals and priorities,  among others, there are serious practical  difficulties  
+associated  with introducing  and managing  a team pay system scheme. One important  
+aspect of team pay that it can prove hard to identify performance  targets that can 
+drive team contribution.  Organisations  need to establish  the right measures.  Output 
+measures  include achievement  of team goals and standards,  while input and process 
+measures  will focus on teams’ levels of knowledge  and skills, the quality of their 
+interactions  and collective  effort, and extent of their involvement  in decision‐making. 
+If appropriate  targets can be found (with the right team structure  and rewards),  then 
+team‐based pay can produce impressive  results.  
+Pulling Together: Making the Most out of Teams  
+41References 
+Acas (2005), Teamwork:  success through people , March 
+Armstrong  M (1999 ), Managing  activities , Institute of Personnel  and Development  
+Armstrong  M (2000), Rewarding  teams , CIPD good practice guide 
+Belbin RM (1993), Team roles at work, Elsevier–Butterworth  Heinemann  
+Borrill C, West M, Shapiro D, Rees A (2000), ‘Teamworking  and effectiveness  in healthcare’,  
+British Journal of Health Care Management,  6 (8) 
+Brannick  M, Salas E, Prince C (1997), Team performance  assessment  and measurement:  theory, 
+methods and applications , Lawrence  Erlbaum  
+Brockman  E (1996), ‘Removing  the paradox of conflict from group decisions’,  Academy of 
+Management  Executive , 10 (2) 
+Brown R, Wustemann  L (2003), ‘Bonus schemes’,  Managing  Best Practice 110, The Work 
+Foundation  
+CIPD (2005a), Training to learning , research report 
+CIPD (2005b), Team reward , factsheet,  December  
+CIPD (2005c), Rewarding  customer service? Using reward and recognition  to deliver your customer 
+service strategy , research report 
+CIPD (2006a), Teamworking , factsheet,  June 
+CIPD (2006b), Reward management , annual survey report 
+Cordery J, Mueller W, Smith L (1991), ‘Attitudinal  and behavioural  effects of autonomous  
+group working:  a longitudinal  field study’, Academy of Management  Journal , 34 (5) 
+Hackman  J (ed) (1990), Groups that work (and those that don’t): conditions  for effective teamwork,  
+Jossey Bass 
+Hardingham  A, Royal J (1994), Pulling together: teamwork  in practice , Institute of Personnel  and 
+Development  
+2006 © Institute for Employment Studies  
+42Hammer  M, Stanton S (1999), ‘How process enterprise  really work’, Harvard Business Review, 
+November ‐December  
+Hayes N (1997), Successful  team management , Thomson  
+Healy A, Undre S, Vincent C (2004), ‘Developing  observational  measures  of performance  in 
+surgical teams’, Quality and Safety in Health Care, 13 
+Holbeche  L (1998), Motivating  in lean organisations , Elsevier–Butterworth  Heinemann  
+Holbeche  L (2005), The high performance  organisation:  creating dynamic stability and sustainable  
+success , Elsevier–Butterworth  Heinemann  
+IDS (2003), Teamworking , IDS Study 763, December  
+Industrial  Society (1998), ‘Teamworking’,  Managing  Best Practice , 47, May 
+IRS (1999), ‘Hurdles  and incentives  at Vertex Data Services’,  in Personnel  issues in call centres 
+today – the IRS report, October 
+IRS (2000), Call centres 2000: reward and HR strategies  
+IRS (2001), ‘Whatever  happened  to team reward?’,  IRS Employment  Review , 732, 15 July 
+IRS (2005), Pay prospects  survey, IRS Employment  Review , 835, 18 November  
+Irwin I, Plovnick  M, Fry R (1974), Task‐oriented team development , McGraw ‐Hill 
+Jones P (2006), ‘Simple rules for complex  teamworking  in a 24/7 world’, People Management , 27 
+July 
+Katzenbach  J, Smith D (1993a), ‘The discipline  of teams’, Harvard Business Review , March‐April 
+Katzenbach  J, Smith D (1993b), The wisdom of teams: creating the high‐performance  organisation , 
+Harvard  Business  School 
+Katzenbach  J, Smith D (2001), ‘The discipline  of virtual teams’, Leader to Leader , 22, Fall 
+Kersley B, Alpin C, Forth J, Bryson A, Bewley H, Dix G, Oxenbridge  S (2006), Inside the 
+workplace:  findings from the 2004 Workplace  Employment  Relations  Survey , Routledge  
+Larson C, LaFasto M (1989), Teamwork:  what must go right, what can go wrong , Sage 
+Locke E, Shaw K, Saari L, Latham G (1982), ‘Goal setting and task performance:  1969–80’,  
+Psychological  Bulletin , 90 
+Manz C, Sims H (1996), Business without bosses: how self‐managing  teams are building high‐
+performance  companies , Wiley 
+Margerison  C (2002), Team leadership , Thomson  
+Margersion  C, McCann  D (1991), Team management:  practical approaches , Mercury  Books 
+Mendibil  K, MacBryde  J, Bititci U (2001), Facilitating  team performance  management , paper 
+presented  at New organisational  directions  in performance  measurement  conference,  
+University  of Northumbria,  28‐29 March 
+Pulling Together: Making the Most out of Teams  
+43Mendibil  K (2003), Managing  teamwork  through performance  measurement , presentation  at IBF 
+Conference,  11 June 
+Milsome  S (2003), ‘Creating  high‐performance  workplaces’,  Managing  Best Practice , 112, 
+November  
+NHS Modernisation  Agency (2003), ‘Teamworking  for improvement:  planning  for speed and 
+sustainability’,  Research into Practice , report 5, August 
+Neathey  F, Suff P (1997), ‘Self‐directed teamworking’,  IRS Management  Review , 7, October 
+Øvretveit  J (1997), ‘How to describe inter‐professional  working,  in Øvretveit  J, Mathias P and 
+Thompson  T (eds), Inter‐professional  working for health and social care, MacMillan  
+Parry I, Tranfield  D, Smith S, Foster M, Wilson S (1998), ‘Reconfiguring  your organisation:  a 
+teamwork  approach’,  Team Performance  Management , April 
+Piczak M, Hauser R (1996), ‘Self‐directed work teams: a guide to implementation’,  Quality 
+Progress , May 
+Reilly P, Phillipson  J and Smith P (2005) ‘Team based pay in the United Kingdom’,  
+Compensation  and Benefits Review , July/August   
+Reilly P ed (2005) New Reward II: Issues in Developing  a Modern Remuneration  System , Institute 
+for Employment  Studies, Report number 419 
+Reilly P ed (2003) New Reward I: Team, Skill, Competency  Based Pay, Institute for Employment  
+Studies, Report number 403 
+Robbins H, Finley M (1997), Why teams don’t work: what went wrong and how to make it right, 
+Orion Business  Books 
+Royal Pharmaceutical  Society and the BMA (2000), Teamworking  in primary healthcare,  final 
+report 
+Shackleton  V (1995), Business leadership , Routledge  
+Suff P (1997), ‘Measuring  performance’,  IRS Management  Review , 5, April 
+Sundstrom  E, DeMuse K, Futrell D (1990), ‘Work teams’, American  Psychologist , Vol. 25 (2) 
+Torrington  D, Hall L, Taylor S (2002), Human resource management , Pearson Education  
+Tuckman  B (1965), ‘Developmental  sequence  in small groups’, Psychological  Bulletin, 63 
+West M (1996), ‘Working  in groups’, in Warr P (ed), Psychology  at work, Penguin 
+West M (2004), The secrets of successful  team management , Duncan Baird 
+Zigon J (1994), ‘Measuring  the performance  of work teams’, ACA Journal , autumn 
+Zigon J (1997), ‘Team performance  measurement:  a process for creating team performance  
+standards’,  Compensation  & Benefits Review , Vol. 29 (1) 
