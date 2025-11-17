@@ -14,6 +14,7 @@ Magazine
 Topics
 Podcasts
 Store
+Reading Lists
 Data & Visuals
 Case Selections
 HBR Executive
@@ -27,7 +28,7 @@ Store
 Webinars
 Newsletters
 All Topics
-The Big Idea
+Reading Lists
 Data & Visuals
 Case Selections
 HBR Executive
@@ -51,7 +52,7 @@ Innovation
 Work-life Balance
 All Topics
 For Subscribers
-The Big Idea
+Reading Lists
 Data & Visuals
 Case Selections
 HBR Executive
@@ -108,7 +109,7 @@ Explore HBR
 The Latest
 All Topics
 Magazine Archive
-The Big Idea
+Reading Lists
 Case Selections
 HBR Executive
 Podcasts
@@ -153,7 +154,7 @@ Explore HBR
 The Latest
 All Topics
 Magazine Archive
-The Big Idea
+Reading Lists
 Case Selections
 HBR Executive
 Podcasts

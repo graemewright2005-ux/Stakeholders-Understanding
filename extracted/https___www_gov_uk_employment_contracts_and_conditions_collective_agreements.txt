@@ -22,9 +22,6 @@ GOV.UK
 Navigation menu
 Menu
 Menu
-Search GOV.UK
-×
-Search GOV.UK
 Services and information
 Benefits
 Births, death, marriages and care
@@ -55,6 +52,9 @@ Policy papers and consultations
 Consultations and strategy
 Transparency
 Data, Freedom of Information releases and corporate reports
+Search GOV.UK
+×
+Search GOV.UK
 Search
 Search GOV.UK
 Search
@@ -82,6 +82,7 @@ Next
 :
 Written statement of employment particulars
 View a printable version of the whole guide
+This page is
 Part of
 Employ someone: step by step
 Step

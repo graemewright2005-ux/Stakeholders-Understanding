@@ -16,22 +16,25 @@ Media Center
 Events
 Events
 All Events
-BSR at Climate Week NYC and UNGA Week
-Developing Robust Climate Transition Plans
+BSR at the United Nations Forum on Business and Human Rights
+Advancing Inclusive and Impactful Business in a New Era
+BSR at COP30
 Log In
 Contact
 Sustainability Insights
 Sustainability Insights
 Featured
 Beyond the Business Case Debate: Reasserting the Strategic Value of Sustainability
-Mining and the Just Transition: Putting People at the Center of the Energy Transition
-Developing Integrated Approaches to Human Rights, Climate, and Nature
-Ten Lessons on Developing Effective Sustainability Strategies
-Effective Remedy in Jeopardy? Lessons from the UNGPs, CSDDD, and EU Omnibus Proposal
-Trending Topics
-Human Rights
-Regulations
-CSDDD
+Harnessing AI in Sustainability: Emerging Use Cases
+Stay the Course: Advancing Integrated Transition Plans
+Business Action for Climate Adaptation: Ensuring Co-Benefits for Communities
+Integrating Nature within Climate Scenarios
+Featured Topics
+business transformation
+climate and nature
+energy and extractives
+financial services
+just transition
 All Topics
 Explore
 Podcast Series
@@ -57,7 +60,8 @@ Technology
 Transport and Logistics
 Travel and Tourism
 Services
-BSR’s sustainability advisory services help companies to achieve impact and create long-term business value.
+Services Overview
+Integrated Approach
 Sustainable Futures Lab
 BSR’s Sustainable Futures Lab helps businesses to spot emerging issues early, explore different possible futures, and develop more resilient and sustainable strategies.
 Collaboration
@@ -91,6 +95,8 @@ achieve your sustainability goals
 .
 Contact Us
 You Might Also Like
+Reports
+Harnessing AI in Sustainability: Emerging Use Cases
 Blog
 Partnering with Suppliers to Advance Human Rights Due Diligence
 Blog
@@ -105,20 +111,16 @@ Blog
 A Renewed Approach to Sustainability: Five Building Blocks for Business
 Blog
 Material, but Not Always Strategic: Why the Difference Matters
-Blog
-Board Oversight Amid Uncertainty: Doubling Down on Strategic Sustainability
 Back to Reports
 About BSR
 BSR® is a sustainable business network that provides global insights, strategic advisory services, and collaborations to more than 300 member companies in Asia, Europe, and North America. BSR® helps its members to see a changing world more clearly, create long-term value, and scale impact.
 Our Global Offices
 Copenhagen
-Guangzhou
 Hong Kong
 London
 New York
 Paris
 San Francisco
-Shanghai
 Singapore
 Tokyo
 Washington, D.C.
@@ -160,8 +162,9 @@ Member Companies
 FAQ
 Events
 All Events
-BSR at Climate Week NYC and UNGA Week
-Developing Robust Climate Transition Plans
+BSR at the United Nations Forum on Business and Human Rights
+Advancing Inclusive and Impactful Business in a New Era
+BSR at COP30
 Focus Areas
 Climate and Nature
 Human Rights
@@ -190,7 +193,7 @@ Sustainable Coconut Partnership
 / Towards a Responsible and Resilient Coconut Sector
 Tech Against Trafficking
 / Collaboration to Eradicate Human Trafficking Through Technology
-© 2025 Business for Social Responsibility™ |
+© 2025 Business for Social Responsibility® |
 Data Protection and Privacy Policy
 |
 Cookie Policy
@@ -200,4 +203,3 @@ Terms of Services
 Antitrust and Competition Law Policy
 |
 Contact
-| Alma Server | Sun, September 14, 2025 - 1:33:45

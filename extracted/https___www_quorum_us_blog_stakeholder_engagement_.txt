@@ -2,8 +2,8 @@ URL: https://www.quorum.us/blog/stakeholder-engagement/
 
 Stakeholder Engagement: Definition | Quorum
 Skip to main content
-Wonk Week is back Oct 6 - 9! 4 IRL events + 3 days digital for public affairs pros.
-Check it out
+Turn political giving into strategic insight with Campaign Finance data.
+Learn More
 Menu
 Why Quorum?
 Everything you need — all in one place
@@ -51,31 +51,29 @@ Agencies and Law Firms
 Customizable AI workspace streamlines management across all your client portfolios.
 Products
 Federal
-Track legislation, regulations, and conversation on Capitol Hill.
+Track federal policy trends and stakeholders with AI-powered insights.
 State
-Track state bills and regulations, engage with officials, and report on team efforts.
+Stay ahead of state bills and regulations with AI Bill Tracking.
 Grassroots
-Acquire, educate, and activate supporters to reach your goals.
+Turn advocate data into smarter, targeted advocacy with AI.
 PAC
-Raise more funds and disburse more strategically with modern, easy-to-use tools.
-Copilot AI
-Public affairs innovation powered by AI. Turn complex information into actionable intelligence.
+Optimize PAC strategy with AI insights on donors and fundraising.
 Local
-Understand legislative developments in cities and counties.
+Spot policy trends in city and county agendas with AI analysis.
 School Board
-Navigate and influence education policy nationwide.
+Track education policy shifts from district agendas nationwide.
 Stakeholder
-Save contact information, engage, and report on interactions all in one place.
-EU and International
+Manage and personalize stakeholder engagement with intelligent insights.
 Professional Services
+Focus on strategy while our team of experts handle day-to-day tasks.
+EU and International
 KnowWho
 Mobile App
 Add-on
 Impact Reports
+Campaign Finance
 Collaborator
 News Monitoring
-GOTV Election Center
-Campaign Finance
 API & Data Integration
 Pricing
 Case Studies
@@ -88,6 +86,8 @@ Data-Driven Insights
 In-depth analysis and trends shaping policy and advocacy.
 Reports
 Comprehensive research on key legislative and advocacy trends.
+Wonk Week 2025
+Check out the recordings to a dozen Wonk Week sessions with public affairs pros.
 Webinars
 Expert-led discussions on emerging trends and best practices.
 Templates
@@ -199,8 +199,8 @@ By using
 Quorum to manage stakeholder engagement
 , you can connect your efforts all in one platform. You can upload and organize your contacts, track meeting activity, communicate with stakeholders, and create auto-updating reports — all in one place.
 Contact Info
-One Thomas Circle NW, 6th Floor
-Washington, DC 20005
+1001 G St NW
+Washington, DC 20001
 (202) 972-9980
 [email protected]
 Our Social Networking Accounts
@@ -235,9 +235,8 @@ PAC Classic
 Impact Reports
 Collaborator
 News Monitoring
-GOTV Election Center
 Campaign Finance
-Quorum API
+API & Data Integration
 Pricing
 Top Content
 Government Relations Strategic Plan Template
